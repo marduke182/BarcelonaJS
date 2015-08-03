@@ -1,0 +1,31 @@
+[
+  {
+    "id": 939881,
+    "location": {
+      "name": "Mobile World Centre",
+      "address": "C/ Fontanella 2"
+    },
+    "date": "2034-12-31T18:00:00.000Z",
+    "name": "Some JS Event in the Future",
+    "talks": [
+      {
+        "id": 98608108,
+        "type": "talk",
+        "speaker": {
+          "name": "Patrick Heneise",
+          "location": "Barcelona, Spain",
+          "github": 74390,
+          "gravatar": "",
+          "avatar": "https://avatars.githubusercontent.com/u/74390?v=3",
+          "twitter": "YourTwitterHandle"
+        },
+        "title": "Hello JavaScript 4",
+        "description": "<p>Your awesome talk description</p>\n",
+        "language": "es",
+        "level": "advanced",
+        "updated_at": "2015-08-03T20:18:04.007Z",
+        "accepted_at": "2015-08-03T21:11:44.138Z"
+      }
+    ]
+  }
+]
