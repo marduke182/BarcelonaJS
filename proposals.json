@@ -2,7 +2,7 @@
   {
     "id": 98608108,
     "type": "proposal",
-    "date": "2015-08-03T19:49:57.800Z",
+    "date": "2015-08-03T20:10:31.472Z",
     "speaker": {
       "name": "Patrick Heneise",
       "location": "Barcelona, Spain",
@@ -11,7 +11,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/74390?v=3",
       "twitter": "YourTwitterHandle"
     },
-    "title": "Hello JavaScript 2",
+    "title": "Hello JavaScript 4",
     "description": "<p>Your awesome talk description</p>\n",
     "language": "es",
     "level": "advanced"
