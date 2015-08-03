@@ -1,0 +1,18 @@
+[
+  {
+    "id": 98608108,
+    "type": "proposal",
+    "speaker": {
+      "name": "Patrick Heneise",
+      "location": "Barcelona, Spain",
+      "github": 74390,
+      "gravatar": "",
+      "avatar": "https://avatars.githubusercontent.com/u/74390?v=3",
+      "twitter": "YourTwitterHandle"
+    },
+    "title": "Hello JavaScript 4",
+    "description": "<p>Your awesome talk description</p>\n",
+    "language": "es",
+    "level": "advanced"
+  }
+]
