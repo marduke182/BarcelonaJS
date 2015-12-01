@@ -1,0 +1,52 @@
+{
+  "id": 939881,
+  "type": "event",
+  "location": {
+    "name": "Mobile World Centre",
+    "address": "C/ Fontanella 2"
+  },
+  "date": "2034-12-31T19:00:00.000Z",
+  "name": "Some NodeJS Event in the Future",
+  "talks": [
+    {
+      "id": 119367606,
+      "type": "talk",
+      "speaker": {
+        "id": 74390,
+        "name": "Patrick Heneise",
+        "location": "Barcelona, Spain",
+        "github": "PatrickHeneise",
+        "gravatar": "",
+        "avatar": "https://avatars.githubusercontent.com/u/74390?v=3",
+        "twitter": "PatrickHeneise"
+      },
+      "title": "Your Awesome Talk",
+      "description": "<p>MEJOR!</p>\n",
+      "created_at": "2015-11-29T16:03:17Z",
+      "language": "es",
+      "level": "beginner",
+      "month": "February",
+      "updated_at": "2015-11-30T18:19:29.633Z"
+     },
+    {
+      "id": 119549988,
+      "type": "talk",
+      "speaker": {
+        "id": 74390,
+        "name": "Patrick Heneise",
+        "location": "Barcelona, Spain",
+        "github": "PatrickHeneise",
+        "gravatar": "",
+        "avatar": "https://avatars.githubusercontent.com/u/74390?v=3",
+        "twitter": "YourTwitterHandle"
+      },
+      "title": "Your Even More Awesome Talk",
+      "description": "<p>Your super awesome talk description</p>\n",
+      "created_at": "2015-11-30T18:20:54Z",
+      "language": "en",
+      "level": "expert",
+      "month": "December",
+      "updated_at": "2015-11-30T20:22:24.769Z"
+     }
+   ]
+}
