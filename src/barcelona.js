@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  var lock = new Auth0Lock('6FLRg3YjuJzsnuOGKVHhRu4khza4eZy6', 'barcelonajs.eu.auth0.com');
+  var lock = new Auth0Lock(AUTH0_CLIENT_ID, AUTH0_DOMAIN);
 
   var userProfile = null;
 
