@@ -1,0 +1,19 @@
+[{
+	"title": "Node.js Barcelona",
+	"url": "http://node.barcelonajs.org",
+	"description": "",
+	"logo": "",
+  "contact": "node@barcelonajs.org"
+}, {
+	"title": "ReactJS Barcelona",
+	"url": "http://react.barcelonajs.org",
+	"description": "",
+	"logo": "",
+  "contact": "react@barcelonajs.org"
+}, {
+	"title": "AngularJS Barcelona",
+	"url": "http://angular.barcelonajs.org",
+	"description": "",
+	"logo": "",
+  "contact": "angular@barcelonajs.org"
+}]
