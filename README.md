@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# NodeConf
-NodeConf Barcelona
-
-## Setup
-
-    npm install
-    npm run dev
-=======
 # BarcelonaJS
 The Barcelona Original.
 
@@ -27,4 +18,3 @@ The Barcelona Original.
 3. That's it. :)
 
     **If you need any help with this process** because you are new to GitHub or git, give us a poke on Twitter. We are happy to help newcomers in any way we can!
->>>>>>> 01958bbff7f32287a89ba74831d9353bad31b16f
