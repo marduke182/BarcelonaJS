@@ -25,7 +25,8 @@ Metalsmith(__dirname)
   .use(markdown())
   .use(layouts({
     engine: 'handlebars',
-    partials: 'partials'
+    directory: 'src/layouts',
+    partials: 'src/partials'
   }))
   .use(sass({
     outputStyle: 'expanded',
