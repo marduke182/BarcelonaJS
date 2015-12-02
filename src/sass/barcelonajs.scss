@@ -23,29 +23,41 @@ a {
     padding: 3em;
 }
 
-h1, h3, h3, h4, h5, h6, p {
-    padding: 0;
-    margin: 0;
-}
-
 h1 {
     font-size: 2.5rem;
-    margin-bottom: 1rem;
 }
 
 h2 {
     font-size: 2rem;
-    margin-bottom: 1rem;
 }
 
 h3 {
     font-size: 1.75rem;
-    margin-bottom: 1rem;
 }
 
 h4 {
     font-size: 1.25rem;
-    margin-bottom: 1rem;
+}
+
+.btn {
+    padding:.3rem 1.2rem;
+    margin-top: 20px;
+}
+
+.btn.dark {
+    background-color: #232723;
+    &:hover {
+        background-color: $white;
+        color: $dark;
+    }
+}
+
+.btn.red {
+    background-color: $red;
+    color: $white;
+    &:hover {
+        background-color: $dark;
+    }
 }
 
 nav.menu {
@@ -90,17 +102,6 @@ header.main {
     a {
         color:$white;
     }
-
-    .btn {
-        background-color: #232723;
-        padding:.3rem 1.2rem;
-        margin-top: 20px;
-
-        &:hover {
-            background-color: $white;
-            color: $dark;
-        }
-    }
 }
 
 section {
@@ -108,7 +109,15 @@ section {
         color:$red;
     }
 
+    .buttons {
+        padding-top: 1.25rem;
+    }
+
     .speaker {
+        h3, h4, h6, p {
+            padding: 0;
+            margin: 0;
+        }
         margin-top:1.5rem;
         .avatar {
             width: 300px;
@@ -150,5 +159,11 @@ footer {
 
     .github {
         font-size:.8rem;
+    }
+}
+
+@media(max-width:768px) {
+    .venue-info {
+        padding-bottom: 1.5rem;
     }
 }
