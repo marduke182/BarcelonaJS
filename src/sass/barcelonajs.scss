@@ -14,6 +14,7 @@ html, body {
 
 a {
     text-decoration: none;
+    color:$blue;
 }
 
 .wrap {
@@ -22,9 +23,9 @@ a {
     padding: 3em;
 }
 
-h1, h3, h3, h4, h5, h6 {
+h1, h3, h3, h4, h5, h6, p {
     padding: 0;
-    margin:0;
+    margin: 0;
 }
 
 h1 {
@@ -84,7 +85,6 @@ header.main {
 
     h4 {
         font-weight: 300;
-        margin-bottom: 1rem;
     }
 
     a {
@@ -104,8 +104,38 @@ header.main {
 }
 
 section {
-    .title-red {
+    .title {
         color:$red;
+    }
+
+    .speaker {
+        margin-top:1.5rem;
+        .avatar {
+            width: 300px;
+            border-radius:50%;
+            margin-bottom: 1rem;
+        }
+
+        .name, .talk-title, .description {
+            margin-bottom: .5rem;
+        }
+
+        .name, .talk-title {
+            font-weight: 600;
+        }
+
+        .name {
+            color:$red;
+        }
+
+        .talk-title {
+            color:$dark;
+            font-size: 1rem;
+        }
+
+        b {
+            font-weight: 600;
+        }
     }
 }
 

@@ -21,7 +21,7 @@
         "twitter": "PatrickHeneise"
       },
       "title": "Your Awesome Talk",
-      "description": "<p>MEJOR!</p>\n",
+      "description": "MEJOR!",
       "created_at": "2015-11-29T16:03:17Z",
       "language": "es",
       "level": "beginner",
@@ -41,7 +41,7 @@
         "twitter": "YourTwitterHandle"
       },
       "title": "Your Even More Awesome Talk",
-      "description": "<p>Your super awesome talk description</p>\n",
+      "description": "Your super awesome talk description",
       "created_at": "2015-11-30T18:20:54Z",
       "language": "en",
       "level": "expert",
