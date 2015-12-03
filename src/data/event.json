@@ -3,9 +3,11 @@
   "type": "event",
   "location": {
     "name": "Mobile World Centre",
-    "address": "C/ Fontanella 2"
+    "shortname": "MWC",
+    "address": "C/ Fontanella 2",
+    "map": "https://goo.gl/maps/RZprm4PWuPQ2"
   },
-  "date": "2034-12-31T19:00:00.000Z",
+  "dateTime": "December 9, 18:45",
   "name": "Some NodeJS Event in the Future",
   "talks": [
     {
