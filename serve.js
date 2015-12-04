@@ -12,7 +12,8 @@ Metalsmith(__dirname)
   .source('src/')
   .destination('./build')
   .use(metadata({
-    'event': 'data/event.json'
+    'event': 'data/event.json',
+    'affiliates': 'data/affiliates.json'
   }))
   .use(collections({
     talks: 'talks/*.md',
