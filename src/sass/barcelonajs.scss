@@ -115,10 +115,7 @@ section {
 
     .affiliate-logo {
         margin-top: 1rem;
-        height:230px;
-        background-size: 100%;
-        background-repeat: no-repeat;
-        background-position: center center;
+        width:200px!important;
     }
 
     .speaker {
@@ -156,7 +153,7 @@ section {
     }
 }
 
-.venue {
+.venue, .sponsors {
     background-color: $gray;
 }
 
