@@ -1,4 +1,5 @@
 @import 'partials/_vars.scss';
+@import 'partials/_mixins.scss';
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700);
 
 html, body {
@@ -42,22 +43,23 @@ h4 {
 .btn {
     padding:.3rem 1.2rem;
     margin-top: 20px;
+    border-radius: 2px;
 }
 
 .btn.dark {
-    background-color: #232723;
-    &:hover {
-        background-color: $white;
-        color: $dark;
-    }
+    @include createButton($dark, $white, $white, $dark);
 }
 
 .btn.red {
-    background-color: $red;
-    color: $white;
-    &:hover {
-        background-color: $dark;
-    }
+    @include createButton($red, $white, $dark);
+}
+
+.btn.green {
+    @include createButton(#4CAF50, $white, #388E3C);
+}
+
+.btn.blue {
+    @include createButton(#2196F3, $white, #1976D2)
 }
 
 nav.menu {
@@ -92,7 +94,7 @@ header.main {
     background-color:$red;
 
     h1, h4 {
-        color:$white;
+        color: $white;
     }
 
     h4 {
@@ -100,13 +102,13 @@ header.main {
     }
 
     a {
-        color:$white;
+        color: $white;
     }
 }
 
 section {
     .title {
-        color:$red;
+        color: $red;
     }
 
     .buttons {
@@ -115,7 +117,12 @@ section {
 
     .affiliate-logo {
         margin-top: 1rem;
-        width:200px!important;
+        width:200px;
+    }
+
+    .sponsor-logo {
+        margin-top: 1rem;
+        width:175px;
     }
 
     .speaker {

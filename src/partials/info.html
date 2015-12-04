@@ -8,22 +8,34 @@
         <p>
             Lorem ipsum dolor sit amet, consectetur elit
         </p>
-        <div class="row buttons">
-            <div class="col-xs-6 col-md-4">
-                <a href="#" class="btn red">Join Us</a>
-            </div>
-            <div class="col-xs-6 col-md-4">
-                <a href="#" class="btn red">Calendar</a>
-            </div>
-        </div>
 
         <h4>Where?</h4>
         <p>
             <a href="{{event.location.map}}">{{event.location.address}} @ {{event.location.name}}.</a>
         </p>
+
+        <div class="row buttons">
+            <div class="col-xs-6 col-sm-3 col-md-4">
+                <a href="#" class="btn green">Join Us</a>
+            </div>
+            <div class="col-xs-4 col-sm-3 col-md-4">
+                <a href="#" class="btn blue">Calendar</a>
+            </div>
+        </div>
     </section>
 
     <section class="col-xs-12 col-md-6">
         <h4>Previous Events</h4>
+        {{#each previous}}
+            {{#each talks}}
+                <b class="title">{{title}}</b>
+                <p>{{description}}</p>
+            {{/each}}
+        {{/each}}
+        <div class="row">
+            <div class="col-xs-6 col-sm-3 col-md-4" style="margin-top: .4rem;">
+                <a href="#" class="btn green">Read more</a>
+            </div>
+        </div>
     </section>
 </section>
