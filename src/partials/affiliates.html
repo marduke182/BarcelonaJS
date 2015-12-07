@@ -4,8 +4,10 @@
     </div>
     <div class="row center-xs">
         {{#each affiliates.member}}
-        <div class="col-xs-12 col-sm-4 col-md-2">
-            <a href="{{url}}" class="affiliate-logo" style="display:block; background-image: url(assets/img/affiliates/{{logo}})"></a>
+        <div class="col-xs-12 col-md-4">
+            <a href="{{url}}">
+                <img class="affiliate-logo" src="assets/img/affiliates/{{logo}}" alt="{{title}}">
+            </a>
         </div>
         {{/each}}
     </div>

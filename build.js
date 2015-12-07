@@ -13,7 +13,11 @@ Metalsmith(__dirname)
   .destination('./build')
   .use(metadata({
     'event': './data/event.json',
-    'affiliates': './data/affiliates.json'
+    'affiliates': './data/affiliates.json',
+    'sponsors': './data/sponsors.json',
+    'history': './data/history.json',
+    'previous': './data/previous.json',
+    'members': './data/members.json'
   }))
   .use(collections({
     talks: 'talks/*.md',
