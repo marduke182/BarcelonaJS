@@ -5,6 +5,7 @@ var assets = require('metalsmith-assets');
 var collections = require('metalsmith-collections');
 var permalinks = require('metalsmith-permalinks');
 var browserSync = require('metalsmith-browser-sync');
+var helpers = require('diy-handlebars-helpers');
 var metadata = require('metalsmith-metadata');
 var sass = require('metalsmith-sass');
 
@@ -13,10 +14,9 @@ Metalsmith(__dirname)
   .destination('./build')
   .use(metadata({
     'event': 'data/event.json',
-    'affiliates': 'data/affiliates.json',
+    'chapters': 'data/chapters.json',
     'sponsors': 'data/sponsors.json',
     'history': 'data/history.json',
-    'previous': 'data/previous.json',
     'members': 'data/members.json'
   }))
   .use(collections({

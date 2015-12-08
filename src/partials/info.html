@@ -1,41 +1,41 @@
 <section class="info wrap row">
-    <div class="col-xs-12 center-xs">
-        <h2 class="title">Info</h2>
+  <div class="col-xs-12 center-xs">
+    <h2 class="title">Info</h2>
+  </div>
+  <section class="col-xs-12 col-md-6">
+    <h4>Come to BarcelonaJS</h4>
+    <h4>Join Us!</h4>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur elit
+    </p>
+
+    <h4>Where?</h4>
+    <p>
+      <a href="{{event.location.map}}">{{event.location.address}} @ {{event.location.name}}.</a>
+    </p>
+
+    <div class="row buttons">
+      <div class="col-xs-6 col-sm-3 col-md-4">
+        <a href="#" class="btn green">Join Us</a>
+      </div>
+      <div class="col-xs-4 col-sm-3 col-md-4">
+        <a href="#" class="btn blue">Calendar</a>
+      </div>
     </div>
-    <section class="col-xs-12 col-md-6">
-        <h4>Come to BarcelonaJS</h4>
-        <h4>Join Us!</h4>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur elit
-        </p>
+  </section>
 
-        <h4>Where?</h4>
-        <p>
-            <a href="{{event.location.map}}">{{event.location.address}} @ {{event.location.name}}.</a>
-        </p>
-
-        <div class="row buttons">
-            <div class="col-xs-6 col-sm-3 col-md-4">
-                <a href="#" class="btn green">Join Us</a>
-            </div>
-            <div class="col-xs-4 col-sm-3 col-md-4">
-                <a href="#" class="btn blue">Calendar</a>
-            </div>
-        </div>
-    </section>
-
-    <section class="col-xs-12 col-md-6">
-        <h4>Previous Events</h4>
-        {{#each previous}}
-            {{#each talks}}
-                <b class="title">{{title}}</b>
-                <p>{{description}}</p>
-            {{/each}}
-        {{/each}}
-        <div class="row">
-            <div class="col-xs-6 col-sm-3 col-md-4" style="margin-top: .4rem;">
-                <a href="#" class="btn green">Read more</a>
-            </div>
-        </div>
-    </section>
+  <section class="col-xs-12 col-md-6">
+    <h4>Previous Talks</h4>
+    {{#each history}}
+      {{#each talks}}
+        <b class="title">{{title}}</b>
+        <p>{{description}}</p>
+      {{/each}}
+    {{/each}}
+    <div class="row">
+      <div class="col-xs-6 col-sm-3 col-md-4" style="margin-top: .4rem;">
+        <a href="#" class="btn green">Read more</a>
+      </div>
+    </div>
+  </section>
 </section>

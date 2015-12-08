@@ -1,3 +1,7 @@
+---
+layout: page.html
+---
+
 <section class="breadcrumb row middle-xs">
     <div class="col-xs-12 center-xs">
         <h2>Code of Conduct</h2>
@@ -34,17 +38,8 @@
     We expect participants to follow these rules at conference and workshop venues and conference-related social events.</p>
 
     <h3 class="title center-xs">Need help?</h3>
-    <div class="row">
-     {{#each members}}
-    <article class="organizer col-xs-12 col-md-4 center-xs">
-        <h4 class="name">{{name}}</h4>
-        <a href="mailto:{{email}}">
-            <img src="assets/img/icons/email.svg" class="icon-member">
-        </a>
-        <a href="ttps://twitter.com/{{twitter}}">
-            <img src="assets/img/icons/twitter.svg" class="icon-member">
-        </a>
-    </article>
-        {{/each}}
+    Need Help? Contact Isabel
+    Isabel Cabezas Twitter: @isabelcabezasm
+    Email: isabel@barcelonajs.org
     </div>
 </section>

@@ -1,19 +1,29 @@
 [{
-	"title": "Node.js Barcelona",
-	"url": "http://node.barcelonajs.org",
-	"description": "",
-	"logo": "",
+  "title": "NodeConf Barcelona",
+  "url": "http://barcelona.nodeconf.com",
+  "logo": "nodeconf.svg",
+  "contact": "nodeconf@barcelonajs.org"
+},{
+  "title": "Barcelona Nodeschool",
+  "url": "http://nodeschool.io/barcelona",
+  "logo": "nodeschool.svg",
+  "contact": "nodeschool@barcelonajs.org"
+}, {
+  "title": "Node.js Barcelona",
+  "url": "http://node.barcelonajs.org",
+  "description": "",
+  "logo": "",
   "contact": "node@barcelonajs.org"
 }, {
-	"title": "ReactJS Barcelona",
-	"url": "http://react.barcelonajs.org",
-	"description": "",
-	"logo": "",
+  "title": "ReactJS Barcelona",
+  "url": "http://react.barcelonajs.org",
+  "description": "",
+  "logo": "",
   "contact": "react@barcelonajs.org"
 }, {
-	"title": "AngularJS Barcelona",
-	"url": "http://angular.barcelonajs.org",
-	"description": "",
-	"logo": "",
+  "title": "AngularJS Barcelona",
+  "url": "http://angular.barcelonajs.org",
+  "description": "",
+  "logo": "",
   "contact": "angular@barcelonajs.org"
 }]

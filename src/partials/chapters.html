@@ -1,0 +1,14 @@
+<section class="chapters wrap">
+  <div class="col-xs-12 center-xs">
+    <h2 class="title">Chapters</h2>
+  </div>
+  <div class="row center-xs">
+    {{#each chapters}}
+      <div class="col-xs-12 col-md-4">
+        <a href="{{url}}">
+          <img class="chapter-logo" src="assets/img/chapters/{{logo}}" alt="{{title}}">
+        </a>
+      </div>
+    {{/each}}
+  </div>
+</section>
