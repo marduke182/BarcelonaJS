@@ -4,7 +4,7 @@
   duration: "P30M"
   githubId: 119549988
   id: "20341231-your-even-more-awesome-talk"
-  performer: 
+  performer:
     context: "http://schema.org"
     type: "Person"
     githubId: 74390
@@ -16,7 +16,7 @@
     url: "https://api.github.com/users/PatrickHeneise"
     image: "https://avatars.githubusercontent.com/u/74390?v=3"
     twitter: "YourTwitterHandle"
-  superEvent: 
+  superEvent:
     context: "http://schema.org"
     type: "Social event"
     url: "/event/some-nodejs-event-in-the-future.html"
@@ -27,6 +27,7 @@
   url: "/talk/20341231-your-even-more-awesome-talk.html"
   inLanguage: "en"
   level: "expert"
+  layout: page.html
 
 
 ---

@@ -21,11 +21,11 @@ Metalsmith(__dirname)
   }))
   .use(collections({
     talks: 'talks/*.md',
-    sortBy: 'date',
+    sortBy: 'startDate',
     reverse: true
   }))
   .use(permalinks({
-    pattern: ':collection/:title'
+    pattern: ':title'
   }))
   .use(markdown())
   .use(layouts({
