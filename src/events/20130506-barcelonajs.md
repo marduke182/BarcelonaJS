@@ -1,63 +1,74 @@
 ---
-  context: "http://schema.org"
-  type: "Social event"
-  location: 
-    type: "Place"
-    address: 
-      type: "PostalAddress"
-      addressLocality: "Barcelona, Spain"
-      postalCode: "08001"
-      streetAddress: "C/ Fontanella 2"
-      name: "Mobile World Centre"
-    url: "http://barcelonajs.org"
-    duration: "P2H"
-  offers: 
-    type: "Offer"
-    url: "https://ti.to/barcelonajs"
-    price: "0"
-    priceCurrency: "EUR"
-    availability: "http://schema.org/InStock"
-  doorTime: "18:45"
-  inLanguage: 
-    type: "Language"
-    name: "English"
-  startDate: "20130506T19:00"
-  name: "BarcelonaJS"
-  id: "20130506-barcelonajs"
-  url: "/event/20130506-barcelonajs"
-  organizer: 
-    context: "http://schema.org"
-    type: "Organization"
-    address: 
-      type: "PostalAddress"
-      addressLocality: "Barcelona, Spain"
-      postalCode: "08003"
-      streetAddress: "C/ Mare de Deu del Pilar 20"
-    email: "hola(at)barcelonajs.org"
-    name: "BarcelonaJS"
-    url: "http://barcelonajs.org"
-  performer: 
-    - 
-      type: "Person"
-      name: "David Gallardo"
-      id: "20130506-smoothstep2d"
-      sameAs: "https://twitter.com/@galloscript"
-      url: "/talk/20130506-smoothstep2d.html"
-      image: "https://pbs.twimg.com/profile_images/378800000662239616/2d2fbcf0b7c64e76926a041723531bee.png"
-    - 
-      type: "Person"
-      name: "Guillermo Ferrer"
-      id: "20130506-angularjs"
-      sameAs: "https://twitter.com/@guilleferrer"
-      url: "/talk/20130506-angularjs.html"
-      image: "https://pbs.twimg.com/profile_images/1616997786/fbpic.jpg"
-    - 
-      type: "Person"
-      name: "Thomas Steiner"
-      id: "20130506-mj-no-more-or-breaking-news-detection-with-wikipedia"
-      sameAs: "https://twitter.com/@tomayac"
-      url: "/talk/20130506-mj-no-more-or-breaking-news-detection-with-wikipedia.html"
-      image: "https://pbs.twimg.com/profile_images/378800000632143531/891cd4164b1ba75da1e4732b89a045a0.png"
-
+{
+  "context": "http://schema.org",
+  "type": "Social event",
+  "location": {
+    "type": "Place",
+    "address": {
+      "type": "PostalAddress",
+      "addressLocality": "Barcelona, Spain",
+      "postalCode": "08001",
+      "streetAddress": "C/ Fontanella 2",
+      "name": "Mobile World Centre"
+    },
+    "url": "http://barcelonajs.org",
+    "duration": "P2H"
+  },
+  "offers": {
+    "type": "Offer",
+    "url": "https://ti.to/barcelonajs",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "availability": "http://schema.org/InStock"
+  },
+  "doorTime": "18:45",
+  "inLanguage": {
+    "type": "Language",
+    "name": "English"
+  },
+  "startDate": "20130506T19:00",
+  "name": "BarcelonaJS",
+  "id": "20130506-barcelonajs",
+  "url": "/event/20130506-barcelonajs",
+  "organizer": {
+    "context": "http://schema.org",
+    "type": "Organization",
+    "address": {
+      "type": "PostalAddress",
+      "addressLocality": "Barcelona, Spain",
+      "postalCode": "08003",
+      "streetAddress": "C/ Mare de Deu del Pilar 20"
+    },
+    "email": "hola(at)barcelonajs.org",
+    "name": "BarcelonaJS",
+    "url": "http://barcelonajs.org"
+  },
+  "performer": [
+    {
+      "type": "Person",
+      "name": "David Gallardo",
+      "id": "20130506-smoothstep2d",
+      "sameAs": "https://twitter.com/@galloscript",
+      "url": "/talk/20130506-smoothstep2d.html",
+      "image": "https://pbs.twimg.com/profile_images/378800000662239616/2d2fbcf0b7c64e76926a041723531bee.png"
+    },
+    {
+      "type": "Person",
+      "name": "Guillermo Ferrer",
+      "id": "20130506-angularjs",
+      "sameAs": "https://twitter.com/@guilleferrer",
+      "url": "/talk/20130506-angularjs.html",
+      "image": "https://pbs.twimg.com/profile_images/1616997786/fbpic.jpg"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Steiner",
+      "id": "20130506-mj-no-more-or-breaking-news-detection-with-wikipedia",
+      "sameAs": "https://twitter.com/@tomayac",
+      "url": "/talk/20130506-mj-no-more-or-breaking-news-detection-with-wikipedia.html",
+      "image": "https://pbs.twimg.com/profile_images/378800000632143531/891cd4164b1ba75da1e4732b89a045a0.png"
+    }
+  ]
+}
 
 ---

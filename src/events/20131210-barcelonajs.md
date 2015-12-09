@@ -1,63 +1,74 @@
 ---
-  context: "http://schema.org"
-  type: "Social event"
-  location: 
-    type: "Place"
-    address: 
-      type: "PostalAddress"
-      addressLocality: "Barcelona, Spain"
-      postalCode: "08001"
-      streetAddress: "C/ Fontanella 2"
-      name: "Mobile World Centre"
-    url: "http://barcelonajs.org"
-    duration: "P2H"
-  offers: 
-    type: "Offer"
-    url: "https://ti.to/barcelonajs"
-    price: "0"
-    priceCurrency: "EUR"
-    availability: "http://schema.org/InStock"
-  doorTime: "18:45"
-  inLanguage: 
-    type: "Language"
-    name: "English"
-  startDate: "20131210T19:00"
-  name: "BarcelonaJS"
-  id: "20131210-barcelonajs"
-  url: "/event/20131210-barcelonajs"
-  organizer: 
-    context: "http://schema.org"
-    type: "Organization"
-    address: 
-      type: "PostalAddress"
-      addressLocality: "Barcelona, Spain"
-      postalCode: "08003"
-      streetAddress: "C/ Mare de Deu del Pilar 20"
-    email: "hola(at)barcelonajs.org"
-    name: "BarcelonaJS"
-    url: "http://barcelonajs.org"
-  performer: 
-    - 
-      type: "Person"
-      name: "Christian Kvalheim"
-      id: "20131210-an-introduction-to-the-mongodb-nodejs-driver"
-      sameAs: "https://twitter.com/@christkv"
-      url: "/talk/20131210-an-introduction-to-the-mongodb-nodejs-driver.html"
-      image: "https://pbs.twimg.com/profile_images/64812976/00ra1921.jpg"
-    - 
-      type: "Person"
-      name: "Julio Cesar Staude"
-      id: "20131210-tizen-development"
-      sameAs: "https://twitter.com/@JulioStaude"
-      url: "/talk/20131210-tizen-development.html"
-      image: "https://pbs.twimg.com/profile_images/425320964511911936/ccDc0tMe.png"
-    - 
-      type: "Person"
-      name: "Barcelona JS"
-      id: "20131210-xmas-special-js"
-      sameAs: "https://twitter.com/@BcnJS"
-      url: "/talk/20131210-xmas-special-js.html"
-      image: "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
-
+{
+  "context": "http://schema.org",
+  "type": "Social event",
+  "location": {
+    "type": "Place",
+    "address": {
+      "type": "PostalAddress",
+      "addressLocality": "Barcelona, Spain",
+      "postalCode": "08001",
+      "streetAddress": "C/ Fontanella 2",
+      "name": "Mobile World Centre"
+    },
+    "url": "http://barcelonajs.org",
+    "duration": "P2H"
+  },
+  "offers": {
+    "type": "Offer",
+    "url": "https://ti.to/barcelonajs",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "availability": "http://schema.org/InStock"
+  },
+  "doorTime": "18:45",
+  "inLanguage": {
+    "type": "Language",
+    "name": "English"
+  },
+  "startDate": "20131210T19:00",
+  "name": "BarcelonaJS",
+  "id": "20131210-barcelonajs",
+  "url": "/event/20131210-barcelonajs",
+  "organizer": {
+    "context": "http://schema.org",
+    "type": "Organization",
+    "address": {
+      "type": "PostalAddress",
+      "addressLocality": "Barcelona, Spain",
+      "postalCode": "08003",
+      "streetAddress": "C/ Mare de Deu del Pilar 20"
+    },
+    "email": "hola(at)barcelonajs.org",
+    "name": "BarcelonaJS",
+    "url": "http://barcelonajs.org"
+  },
+  "performer": [
+    {
+      "type": "Person",
+      "name": "Christian Kvalheim",
+      "id": "20131210-an-introduction-to-the-mongodb-nodejs-driver",
+      "sameAs": "https://twitter.com/@christkv",
+      "url": "/talk/20131210-an-introduction-to-the-mongodb-nodejs-driver.html",
+      "image": "https://pbs.twimg.com/profile_images/64812976/00ra1921.jpg"
+    },
+    {
+      "type": "Person",
+      "name": "Julio Cesar Staude",
+      "id": "20131210-tizen-development",
+      "sameAs": "https://twitter.com/@JulioStaude",
+      "url": "/talk/20131210-tizen-development.html",
+      "image": "https://pbs.twimg.com/profile_images/425320964511911936/ccDc0tMe.png"
+    },
+    {
+      "type": "Person",
+      "name": "Barcelona JS",
+      "id": "20131210-xmas-special-js",
+      "sameAs": "https://twitter.com/@BcnJS",
+      "url": "/talk/20131210-xmas-special-js.html",
+      "image": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+    }
+  ]
+}
 
 ---
