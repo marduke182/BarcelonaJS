@@ -13,17 +13,22 @@ Metalsmith(__dirname)
   .source('src/')
   .destination('./build')
   .use(metadata({
-    'event': 'data/event.json',
     'chapters': 'data/chapters.json',
     'sponsors': 'data/sponsors.json',
-    'history': 'data/history.json',
     'members': 'data/members.json'
   }))
   .use(collections({
-    talks: 'talks/*.md',
-    sortBy: 'startDate',
-    reverse: true
+    talks: {
+      pattern: 'talks/*.md',
+      sortBy: 'startDate',
+      reverse: true
+    }
   }))
+  // .use(collections({
+  //   events: 'events/*.md',
+  //   sortBy: 'startDate',
+  //   reverse: true
+  // }))
   .use(permalinks({
     pattern: ':title'
   }))
