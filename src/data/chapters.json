@@ -14,16 +14,4 @@
   "description": "",
   "image": "nodebcn.jpg",
   "contact": "node@barcelonajs.org"
-}, {
-  "name": "ReactJS Barcelona",
-  "url": "http://react.barcelonajs.org",
-  "description": "",
-  "image": "",
-  "contact": "react@barcelonajs.org"
-}, {
-  "name": "AngularJS Barcelona",
-  "url": "http://angular.barcelonajs.org",
-  "description": "",
-  "image": "angularbcn.jpeg",
-  "contact": "angular@barcelonajs.org"
 }]

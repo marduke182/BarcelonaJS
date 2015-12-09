@@ -94,13 +94,11 @@ section {
     color: $red;
     margin-top: 0;
   }
-  .buttons {
-    padding-top: 1.25rem;
-  }
   .sponsor-logo, .chapter-logo {
     margin-top: 1rem;
     width: 175px;
     display: block;
+    margin: 0 auto;
     height: 175px;
     background-repeat: no-repeat;
     background-size: 150px;
@@ -144,6 +142,13 @@ section {
       font-weight: 600;
     }
   }
+}
+.language {
+    text-transform: uppercase;
+}
+.performer-image {
+    border-radius: 50%;
+    width: 100px;
 }
 .about,
 .sponsors {
@@ -191,5 +196,8 @@ footer {
 @media(max-width:768px) {
   .about-info {
     padding-bottom: 1.5rem;
+  }
+  nav.menu .menu-items li {
+    padding: 0 .5rem;
   }
 }
