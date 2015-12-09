@@ -10,9 +10,10 @@
     </p>
 
     <h4>Where?</h4>
-    <p>
-      <a href="{{event.location.map}}">{{event.location.address}} @ {{event.location.name}}.</a>
-    </p>
+    {{nextEvent.location.address.streetAddress}} @ {{nextEvent.location.address.name}}
+    <div class="map">
+      <iframe width="100%" height="500px" frameBorder="0" src='https://a.tiles.mapbox.com/v3/bcnjs.gnm5ha8k/mm/zoompan,geocoder,share.html?secure=1#17/41.38731/2.17180'></iframe>
+    </div>
 
     <div class="row buttons">
       <div class="col-xs-6 col-sm-3 col-md-4">

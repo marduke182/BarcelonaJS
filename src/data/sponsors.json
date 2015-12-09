@@ -1,7 +1,12 @@
 [
   {
     "name": "3scale",
-    "logo": "3scale.svg",
+    "image": "3scale.svg",
     "url": "http://3scale.com"
+  },
+  {
+    "name": "redradix",
+    "image": "redradix.svg",
+    "url": "http://redradix.com"
   }
 ]

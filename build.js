@@ -1,36 +1,99 @@
 var Metalsmith = require('metalsmith');
 var markdown = require('metalsmith-markdown');
 var layouts = require('metalsmith-layouts');
-var collections = require('metalsmith-collections');
 var assets = require('metalsmith-assets');
-var uglify = require('metalsmith-uglify');
-var metadata = require('metalsmith-metadata');
+var collections = require('metalsmith-collections');
 var permalinks = require('metalsmith-permalinks');
+var uglify = require('metalsmith-uglify');
+var browserSync = require('metalsmith-browser-sync');
+var helpers = require('diy-handlebars-helpers');
+var metadata = require('metalsmith-metadata');
 var sass = require('metalsmith-sass');
+
+/**
+ * Normalize an `options` dictionary.
+ *
+ * @param {Object} options
+ */
+
+function normalize(options) {
+  options = options || {};
+
+  for (var key in options) {
+    var val = options[key];
+    if ('string' === typeof val) {
+      options[key] = {
+        pattern: val
+      };
+    }
+  }
+  return options;
+}
+
+var bcnjs = function bcnjs(opts) {
+  opts = normalize(opts);
+  var keys = Object.keys(opts);
+
+  return function(files, metalsmith, done) {
+    var metadata = metalsmith.metadata();
+
+    var nextEvent;
+
+    for (var i = 0; i < metadata.events.length; i++) {
+      var date = moment(metadata.events[i].startDate, 'YYYYMMDD:HHmm').add(2, 'days').unix();
+      if (date >= moment().unix()) {
+        nextEvent = metadata.events[i];
+      }
+    }
+
+    nextEvent.talks = [];
+
+    for (var i = 0; i < nextEvent.performer.length; i++) {
+      var talk = files['talks/' + nextEvent.performer[i].id + '.md'];
+      if (talk.name) {
+        nextEvent.talks.push(talk);
+      }
+    }
+
+    metalsmith._metadata.nextEvent = nextEvent;
+    done();
+  };
+};
 
 Metalsmith(__dirname)
   .source('src/')
   .destination('./build')
   .use(metadata({
-    'event': './data/event.json',
-    'affiliates': './data/affiliates.json',
-    'sponsors': './data/sponsors.json',
-    'history': './data/history.json',
-    'previous': './data/previous.json',
-    'members': './data/members.json'
+    'chapters': 'data/chapters.json',
+    'sponsors': 'data/sponsors.json',
+    'members': 'data/members.json'
   }))
   .use(collections({
-    talks: 'talks/*.md',
-    sortBy: 'date',
-    reverse: true
+    talks: {
+      pattern: 'talks/*.md',
+      sortBy: 'startDate',
+      reverse: true,
+      limit: 1
+    }
+  }))
+  .use(collections({
+    events: {
+      pattern: 'events/*.md',
+      sortBy: 'startDate',
+      reverse: true
+    }
+  }))
+  .use(bcnjs({
+    event: 'test'
   }))
   .use(permalinks({
-    pattern: ':collection/:title'
+    pattern: ':title'
   }))
   .use(markdown())
   .use(layouts({
     engine: 'handlebars',
-    partials: 'partials'
+    directory: 'src/layouts',
+    partials: 'src/partials'
   }))
   .use(sass({
     outputStyle: 'expanded',

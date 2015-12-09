@@ -9,8 +9,6 @@ var helpers = require('diy-handlebars-helpers');
 var metadata = require('metalsmith-metadata');
 var sass = require('metalsmith-sass');
 
-var loadMetadata = require('read-metadata').sync;
-
 /**
  * Normalize an `options` dictionary.
  *
@@ -55,7 +53,7 @@ var bcnjs = function bcnjs(opts) {
         nextEvent.talks.push(talk);
       }
     }
-console.log(metadata);
+
     metalsmith._metadata.nextEvent = nextEvent;
     done();
   };
@@ -70,10 +68,11 @@ Metalsmith(__dirname)
     'members': 'data/members.json'
   }))
   .use(collections({
-    allTalks: {
+    talks: {
       pattern: 'talks/*.md',
       sortBy: 'startDate',
-      reverse: true
+      reverse: true,
+      limit: 1
     }
   }))
   .use(collections({

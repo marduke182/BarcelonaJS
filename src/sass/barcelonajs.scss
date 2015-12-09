@@ -9,7 +9,7 @@ body {
   font-weight: 400;
   background: $white;
   line-height: 1.5rem;
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', Sans-Serif;
   overflow-x: hidden;
 }
 ul {
@@ -97,14 +97,17 @@ section {
   .buttons {
     padding-top: 1.25rem;
   }
-  .chapter-logo {
-    margin-top: 1rem;
-    width: 200px;
-    height: 200px;
-  }
-  .sponsor-logo {
+  .sponsor-logo, .chapter-logo {
     margin-top: 1rem;
     width: 175px;
+    display: block;
+    height: 175px;
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: center center;
+    span {
+      display: none;
+    }
   }
   .speaker,
   .organizer {
