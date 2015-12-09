@@ -36,31 +36,41 @@ var bcnjs = function bcnjs(opts) {
   var keys = Object.keys(opts);
 
   return function(files, metalsmith, done) {
-    // setImmediate(done);
-    Object.keys(files).forEach(function(file) {
-      if (file.indexOf('mytest')>-1) {
-        var data = files[file];
-        console.log(data);
-        // console.log(new Buffer(data.contents).toString('utf8'));
-        // if (data.draft) delete files[file];
+    var metadata = metalsmith.metadata();
+
+    var nextEvent;
+
+    for (var i = 0; i < metadata.events.length; i++) {
+      var date = moment(metadata.events[i].startDate, 'YYYYMMDD:HHmm').add(2, 'days').unix();
+      if (date >= moment().unix()) {
+        nextEvent = metadata.events[i];
       }
-    });
+    }
+
+    nextEvent.talks = [];
+
+    for (var i = 0; i < nextEvent.performer.length; i++) {
+      var talk = files['talks/' + nextEvent.performer[i].id + '.md'];
+      if (talk.name) {
+        nextEvent.talks.push(talk);
+      }
+    }
+console.log(metadata);
+    metalsmith._metadata.nextEvent = nextEvent;
+    done();
   };
 };
 
 Metalsmith(__dirname)
   .source('src/')
   .destination('./build')
-  .use(bcnjs({
-    event: 'test'
-  }))
   .use(metadata({
     'chapters': 'data/chapters.json',
     'sponsors': 'data/sponsors.json',
     'members': 'data/members.json'
   }))
   .use(collections({
-    talks: {
+    allTalks: {
       pattern: 'talks/*.md',
       sortBy: 'startDate',
       reverse: true
@@ -72,6 +82,9 @@ Metalsmith(__dirname)
       sortBy: 'startDate',
       reverse: true
     }
+  }))
+  .use(bcnjs({
+    event: 'test'
   }))
   .use(permalinks({
     pattern: ':title'
