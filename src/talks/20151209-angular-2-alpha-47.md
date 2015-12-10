@@ -10,12 +10,12 @@
   "workPerformed": {
     "type": "CreativeWork",
     "learningResourceType": "presentation",
-    "url": "http://blog.fraixed.es/post/speaking-bcnjs-intro-to-lovefield/"
+    "url": "http://slides.com/elecash/creating-angular2-alpha-48-app-that-works/#/"
   },
   "workFeatured": {
     "type": "CreativeWork",
     "learningResourceType": "source code",
-    "id": "http://blog.fraixed.es/post/speaking-bcnjs-intro-to-lovefield/"
+    "id": "https://github.com/Elecash/angular2-seed"
   },
   "performer": {
     "type": "Person",
@@ -39,3 +39,5 @@
 # Angular 2 Alpha 47
 
 Creating an Angular 2 (Alpha 47) app that works.
+
+**Note: Code and slides are for Angular 2 (Alpha 48).**
