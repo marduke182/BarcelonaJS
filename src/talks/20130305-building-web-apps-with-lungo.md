@@ -7,11 +7,6 @@
   "name": "Building Web Apps with Lungo",
   "description": "You'll learn how to quickly build web apps using Lungo, taking advantage of the new elements and semantics HTML5 adds to the HTML language.",
   "inLanguage": "en",
-  "workPerformed": {
-    "type": "CreativeWork",
-    "learningResourceType": "presentation",
-    "url": "http://www.slideshare.net/steffenhiller/building-html5-mobile-apps-with-sencha-touch"
-  },
   "workFeatured": {
     "type": "CreativeWork",
     "learningResourceType": "source code",

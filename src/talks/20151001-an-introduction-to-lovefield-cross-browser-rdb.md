@@ -25,13 +25,6 @@
     "sameAs": "https://twitter.com/@ifraixedes",
     "url": "/talk/20151001-an-introduction-to-lovefield-cross-browser-rdb.html",
     "image": "https://avatars2.githubusercontent.com/u/1731633?v=3&s=400"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://vimeo.com/102811135"
-    }
   }
 }
 ---

@@ -25,13 +25,6 @@
     "sameAs": "https://twitter.com/@masylum",
     "url": "/talk/20130606-try-a-little-tenderness.html",
     "image": "https://pbs.twimg.com/profile_images/53868095/CIMG6255.jpg"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://github.com/drpicox/gruntjs-presentation-introduction"
-    }
   }
 }
 ---

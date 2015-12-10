@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://drpicox.github.io/gruntjs-presentation-introduction/#/grunt"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": "https://docs.google.com/presentation/d/125bxx1aojsqjbrD7E9vSzMGfzmJuV2lsegVF-TYY1eY/edit"
-  },
   "performer": {
     "type": "Person",
     "name": "Dr. David Rodenas",

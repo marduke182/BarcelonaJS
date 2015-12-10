@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "https://speakerdeck.com/philipbattle/client-side-storage-past-present-and-future"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": "https://twitter.com/franciov/statuses/461288608172113920"
-  },
   "performer": {
     "type": "Person",
     "name": "Philip Battle",

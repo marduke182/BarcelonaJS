@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://www.cau.cat/slides/offline-pouchdb-bcnjs"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": "https://speakerdeck.com/masylum/try-a-little-tenderness"
-  },
   "performer": {
     "type": "Person",
     "name": "Toni Hermoso Pulido",
@@ -25,13 +20,6 @@
     "sameAs": "https://twitter.com/@toniher",
     "url": "/talk/20130704-offline-storage-and-pouchdb.html",
     "image": "https://pbs.twimg.com/profile_images/451107796612702208/CDsEX0oa.jpeg"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://github.com/drpicox/gruntjs-presentation-introduction"
-    }
   }
 }
 ---

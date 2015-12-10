@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://www.slideshare.net/steffenhiller/building-html5-mobile-apps-with-sencha-touch"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": ""
-  },
   "performer": {
     "type": "Person",
     "name": "Steffen Hiller",

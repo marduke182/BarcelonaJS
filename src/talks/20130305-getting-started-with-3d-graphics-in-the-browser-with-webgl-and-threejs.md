@@ -7,11 +7,6 @@
   "name": "Getting started with 3D graphics in the browser with WebGL and three.js",
   "description": "Add 3D content to your web pages or create fully immersive experiences with ease. Learn how to set up a scene, generate or load models and render them interactively.",
   "inLanguage": "en",
-  "workPerformed": {
-    "type": "CreativeWork",
-    "learningResourceType": "presentation",
-    "url": "http://www.slideshare.net/steffenhiller/building-html5-mobile-apps-with-sencha-touch"
-  },
   "workFeatured": {
     "type": "CreativeWork",
     "learningResourceType": "source code",

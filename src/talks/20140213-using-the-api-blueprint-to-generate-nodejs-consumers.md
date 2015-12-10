@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://www.slideshare.net/bpedro/api-code-generation"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": ""
-  },
   "performer": {
     "type": "Person",
     "name": "Bruno Pedro",

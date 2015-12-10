@@ -25,13 +25,6 @@
     "sameAs": "https://twitter.com/@distributedLeo",
     "url": "/talk/20150519-qumram-analytics.html",
     "image": "https://pbs.twimg.com/profile_images/537011905554960384/HgcnZ5RK.jpeg"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://vimeo.com/102811135"
-    }
   }
 }
 ---

@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://www.alejandroelinformatico.com/slideshows/en/marionette-js/#/"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": ""
-  },
   "performer": {
     "type": "Person",
     "name": "Alejandro El Informatico",

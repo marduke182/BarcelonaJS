@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://miguelcamba.com/talks/meet-ember-js/"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": ""
-  },
   "performer": {
     "type": "Person",
     "name": "Miguel Camba",

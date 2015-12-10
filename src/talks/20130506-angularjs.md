@@ -25,13 +25,6 @@
     "sameAs": "https://twitter.com/@guilleferrer",
     "url": "/talk/20130506-angularjs.html",
     "image": "https://pbs.twimg.com/profile_images/1616997786/fbpic.jpg"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "http://www.youtube.com/watch?v=i2miVvS9gUM"
-    }
   }
 }
 ---

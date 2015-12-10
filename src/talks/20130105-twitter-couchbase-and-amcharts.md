@@ -7,11 +7,6 @@
   "name": "Twitter, Couchbase and amCharts",
   "description": "How to start with node.js. An example for teaching purposes at UPC showing off basic node.js fundamentals with streaming twitter messages to Couchbase and visualise the data via socket.io in amCharts.",
   "inLanguage": "en",
-  "workPerformed": {
-    "type": "CreativeWork",
-    "learningResourceType": "presentation",
-    "url": "http://www.slideshare.net/bpedro/nodefs"
-  },
   "workFeatured": {
     "type": "CreativeWork",
     "learningResourceType": "source code",

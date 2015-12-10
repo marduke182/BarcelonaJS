@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://david-rodenas.com/JSandPatterns.pdf"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": "https://twitter.com/franciov/statuses/461288608172113920"
-  },
   "performer": {
     "type": "Person",
     "name": "David Rodenas",
@@ -25,13 +20,6 @@
     "sameAs": "https://twitter.com/@drpicox",
     "url": "/talk/20140527-js-and-patterns.html",
     "image": "https://avatars1.githubusercontent.com/u/2758345?s=460"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://vimeo.com/94973394"
-    }
   }
 }
 ---

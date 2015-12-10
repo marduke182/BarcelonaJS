@@ -7,16 +7,6 @@
   "name": "JavaScript y por qué no comparar la velocidad con el tocino",
   "description": "Rendimiento en Javascript: explicaremos algunas técnicas, haremos una recopilación de buenas prácticas  y utilizaremos alguna herramienta para identificar problemas de rendimiento, lo que no ayudará a hacer buenas implementaciones.",
   "inLanguage": "es",
-  "workPerformed": {
-    "type": "CreativeWork",
-    "learningResourceType": "presentation",
-    "url": "https://speakerdeck.com/philipbattle/client-side-storage-past-present-and-future"
-  },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": "https://twitter.com/franciov/statuses/461288608172113920"
-  },
   "performer": {
     "type": "Person",
     "name": "Isabel Cabezas / Toni Recio",

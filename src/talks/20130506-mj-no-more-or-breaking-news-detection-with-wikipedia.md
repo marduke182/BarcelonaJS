@@ -25,13 +25,6 @@
     "sameAs": "https://twitter.com/@tomayac",
     "url": "/talk/20130506-mj-no-more-or-breaking-news-detection-with-wikipedia.html",
     "image": "https://pbs.twimg.com/profile_images/378800000632143531/891cd4164b1ba75da1e4732b89a045a0.png"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "http://www.youtube.com/watch?v=i2miVvS9gUM"
-    }
   }
 }
 ---

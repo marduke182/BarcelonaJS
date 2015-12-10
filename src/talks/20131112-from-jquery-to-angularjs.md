@@ -25,13 +25,6 @@
     "sameAs": "https://twitter.com/@victorbjelkholm",
     "url": "/talk/20131112-from-jquery-to-angularjs.html",
     "image": "https://pbs.twimg.com/profile_images/378800000087315087/e5a78bb2b5c3051fdffed458ff6d7e9b.jpeg"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://github.com/drpicox/gruntjs-presentation-introduction"
-    }
   }
 }
 ---

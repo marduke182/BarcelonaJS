@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://virtualcraft.net/bcnjs/"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": ""
-  },
   "performer": {
     "type": "Person",
     "name": "David Gallardo",

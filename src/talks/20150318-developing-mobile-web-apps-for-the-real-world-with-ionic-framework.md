@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://www.slideshare.net/danicomas/ionic-developing-mobile-apps-for-the-real-world-daniel-comas"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": "https://twitter.com/franciov/statuses/461288608172113920"
-  },
   "performer": {
     "type": "Person",
     "name": "Daniel Comas Fernández",
@@ -25,13 +20,6 @@
     "sameAs": "https://twitter.com/@dcomasf",
     "url": "/talk/20150318-developing-mobile-web-apps-for-the-real-world-with-ionic-framework.html",
     "image": "https://avatars2.githubusercontent.com/u/4038192?v=3&s=400"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://vimeo.com/102811135"
-    }
   }
 }
 ---

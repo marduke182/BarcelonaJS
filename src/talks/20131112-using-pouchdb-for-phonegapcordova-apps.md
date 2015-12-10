@@ -25,13 +25,6 @@
     "sameAs": "https://twitter.com/@chrisekelley",
     "url": "/talk/20131112-using-pouchdb-for-phonegapcordova-apps.html",
     "image": "https://pbs.twimg.com/profile_images/3723375940/ecd9b674f9922a2a4a08263c527362e4.jpeg"
-  },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://github.com/drpicox/gruntjs-presentation-introduction"
-    }
   }
 }
 ---

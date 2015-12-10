@@ -12,11 +12,6 @@
     "learningResourceType": "presentation",
     "url": "http://slides.com/pedrocasaubon/typescriptbcnjs"
   },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": ""
-  },
   "performer": {
     "type": "Person",
     "name": "Pedro Casaubon",

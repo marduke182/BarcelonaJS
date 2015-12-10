@@ -7,16 +7,6 @@
   "name": "AngularJS and the Declarative / Imperative Impedance Mismatch",
   "description": "AngularJS uses its HTML directives at the core of its UI generation. That means that you specify how to generate the HTML using HTML. Part of that logic has been moved to the controller functions, but part of it cannot be moved. The result is imperative constructs like ng-if and ng-repeat inside the declarative HTML template. The mismatch between an imperative problem and a declarative tool ends up in a messy solution in the long run. JSP tried the same thing with custom tag libraries, and failed. XSL tried the same thing, and failed too. This talk will get into deeper detail about why I believe that the HTML directives - one of the core elements that AngularJS is praised for - is not such a great solution for UI generation.",
   "inLanguage": "en",
-  "workPerformed": {
-    "type": "CreativeWork",
-    "learningResourceType": "presentation",
-    "url": "http://miguelcamba.com/talks/meet-ember-js/"
-  },
-  "workFeatured": {
-    "type": "CreativeWork",
-    "learningResourceType": "source code",
-    "id": ""
-  },
   "performer": {
     "type": "Person",
     "name": "Jakob Jenkov",
