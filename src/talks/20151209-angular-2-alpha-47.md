@@ -19,6 +19,7 @@
   },
   "performer": {
     "type": "Person",
+    "twitter": "elecash",
     "name": "Raúl Jiménez",
     "id": "20151209-angular-2-alpha-47",
     "twitter": "elecash",

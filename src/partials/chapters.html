@@ -5,8 +5,8 @@
   <div class="row center-xs">
     {{#each chapters}}
       <div class="col-xs-12 col-md-4">
-        <a href="{{url}}">
-          <img class="chapter-logo" src="assets/img/chapters/{{logo}}" alt="{{title}}">
+        <a href="{{url}}" style="background-image: url(/assets/img/chapters/{{image}})" class="chapter-logo">
+          <span>{{name}}</span>
         </a>
       </div>
     {{/each}}
