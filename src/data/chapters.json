@@ -9,6 +9,12 @@
   "image": "nodeschool.svg",
   "contact": "nodeschool@barcelonajs.org"
 }, {
+  "name": "AngularJS Barcelona",
+  "url": "http://angular.barcelonajs.org",
+  "description": "",
+  "image": "angularbcn.png",
+  "contact": "angular@barcelonajs.org"
+}, {
   "name": "Node.js Barcelona",
   "url": "http://node.barcelonajs.org",
   "description": "",
