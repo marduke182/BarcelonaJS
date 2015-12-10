@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Sergio Gimeno",
       "id": "20150422-introduction-to-browserify",
+      "twitter": "_sgimeno",
       "sameAs": "https://twitter.com/@_sgimeno",
       "url": "/talk/20150422-introduction-to-browserify.html",
       "image": "https://pbs.twimg.com/profile_images/1362468987/paris.jpg"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Jean Carlos Meninno",
       "id": "20150422-tips-for-using-browserify-in-a-ever-changing-enviroment",
+      "twitter": "eth0lo",
       "sameAs": "https://twitter.com/@eth0lo",
       "url": "/talk/20150422-tips-for-using-browserify-in-a-ever-changing-enviroment.html",
       "image": "https://avatars2.githubusercontent.com/u/657235?v=3&s=460"
@@ -64,6 +66,7 @@
       "type": "Person",
       "name": "",
       "id": "20150422-flash-talks-and-discussions",
+      "twitter": "",
       "sameAs": "https://twitter.com/@",
       "url": "/talk/20150422-flash-talks-and-discussions.html"
     }

@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Philip Battle",
     "id": "20140722-client-side-storage-past-present-and-future",
+    "twitter": "philipbattle",
     "sameAs": "https://twitter.com/@philipbattle",
     "url": "/talk/20140722-client-side-storage-past-present-and-future.html",
     "image": "http://www.philipbattle.co.uk/images/profile_photo_v1.jpg"

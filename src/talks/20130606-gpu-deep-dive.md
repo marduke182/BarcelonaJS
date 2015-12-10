@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Xavi Beumala",
     "id": "20130606-gpu-deep-dive",
+    "twitter": "xbeumala",
     "sameAs": "https://twitter.com/@xbeumala",
     "url": "/talk/20130606-gpu-deep-dive.html",
     "image": "https://pbs.twimg.com/profile_images/52590956/Untitled-1.jpg"

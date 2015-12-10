@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Pau Ramon",
     "id": "20130606-try-a-little-tenderness",
+    "twitter": "masylum",
     "sameAs": "https://twitter.com/@masylum",
     "url": "/talk/20130606-try-a-little-tenderness.html",
     "image": "https://pbs.twimg.com/profile_images/53868095/CIMG6255.jpg"

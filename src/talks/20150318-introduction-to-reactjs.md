@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Ustun Ozgur",
     "id": "20150318-introduction-to-reactjs",
+    "twitter": "ustunozgur",
     "sameAs": "https://twitter.com/@ustunozgur",
     "url": "/talk/20150318-introduction-to-reactjs.html"
   },

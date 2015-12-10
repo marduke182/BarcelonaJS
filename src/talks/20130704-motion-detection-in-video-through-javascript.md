@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Paulo Ávila",
     "id": "20130704-motion-detection-in-video-through-javascript",
+    "twitter": "demoive",
     "sameAs": "https://twitter.com/@demoive",
     "url": "/talk/20130704-motion-detection-in-video-through-javascript.html",
     "image": "https://pbs.twimg.com/profile_images/378800000386587077/8c68f64601fa8bece24c5dfe15d857a2.jpeg"

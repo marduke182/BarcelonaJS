@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Chris E. Kelley",
     "id": "20131112-using-pouchdb-for-phonegapcordova-apps",
+    "twitter": "chrisekelley",
     "sameAs": "https://twitter.com/@chrisekelley",
     "url": "/talk/20131112-using-pouchdb-for-phonegapcordova-apps.html",
     "image": "https://pbs.twimg.com/profile_images/3723375940/ecd9b674f9922a2a4a08263c527362e4.jpeg"

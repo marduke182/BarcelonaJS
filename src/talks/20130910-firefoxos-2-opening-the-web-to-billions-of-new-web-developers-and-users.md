@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Sergi A.",
     "id": "20130910-firefoxos-2-opening-the-web-to-billions-of-new-web-developers-and-users",
+    "twitter": "@trufae",
     "sameAs": "https://twitter.com/@@trufae",
     "url": "/talk/20130910-firefoxos-2-opening-the-web-to-billions-of-new-web-developers-and-users.html",
     "image": "https://pbs.twimg.com/profile_images/430343297224437760/KxsZykF6.jpeg"

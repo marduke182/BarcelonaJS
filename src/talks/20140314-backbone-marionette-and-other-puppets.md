@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Alejandro El Informatico",
     "id": "20140314-backbone-marionette-and-other-puppets",
+    "twitter": "ainformatico",
     "sameAs": "https://twitter.com/@ainformatico",
     "url": "/talk/20140314-backbone-marionette-and-other-puppets.html"
   },

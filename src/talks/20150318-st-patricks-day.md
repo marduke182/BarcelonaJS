@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Saint Patrick",
     "id": "20150318-st-patricks-day",
+    "twitter": "#StPatricksDay",
     "sameAs": "https://twitter.com/@#StPatricksDay",
     "url": "/talk/20150318-st-patricks-day.html",
     "image": "http://www.ihypress.ca/stpats/sp1.gif"

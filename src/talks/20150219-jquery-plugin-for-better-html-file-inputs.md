@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Miguel Parramon",
     "id": "20150219-jquery-plugin-for-better-html-file-inputs",
+    "twitter": "mparramon",
     "sameAs": "https://twitter.com/@mparramon",
     "url": "/talk/20150219-jquery-plugin-for-better-html-file-inputs.html",
     "image": "https://avatars0.githubusercontent.com/u/636075?v=3&s=400"

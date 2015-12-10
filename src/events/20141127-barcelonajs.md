@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Eduard Tomàs",
       "id": "20141127-una-tapa-de-es6-por-favor",
+      "twitter": "eiximenis",
       "sameAs": "https://twitter.com/@eiximenis",
       "url": "/talk/20141127-una-tapa-de-es6-por-favor.html"
     },
@@ -55,6 +56,7 @@
       "type": "Person",
       "name": "Sergi Cortés",
       "id": "20141127-una-simple-app-con-meteor-10",
+      "twitter": "sergi_c",
       "sameAs": "https://twitter.com/@sergi_c",
       "url": "/talk/20141127-una-simple-app-con-meteor-10.html"
     }

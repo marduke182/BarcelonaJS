@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Dave W.",
       "id": "20151111-nodejs-a-platform-for-porn",
+      "twitter": "",
       "sameAs": "https://twitter.com/@",
       "url": "/talk/20151111-nodejs-a-platform-for-porn.html",
       "image": "https://avatars0.githubusercontent.com/u/1398082?v=3&s=400"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Tim Perry",
       "id": "20151111-typescript-will-finally-bring-peace-to-your-troubled-soul",
+      "twitter": "pimterry",
       "sameAs": "https://twitter.com/@pimterry",
       "url": "/talk/20151111-typescript-will-finally-bring-peace-to-your-troubled-soul.html",
       "image": "https://avatars3.githubusercontent.com/u/1526883?v=3&s=400"

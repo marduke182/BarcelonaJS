@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Javier Beaumont",
     "id": "20130305-classic-board-game-with-jquery-memojs",
+    "twitter": "javierbeaumont",
     "sameAs": "https://twitter.com/@javierbeaumont",
     "url": "/talk/20130305-classic-board-game-with-jquery-memojs.html",
     "image": "https://pbs.twimg.com/profile_images/646703747/116573-160-20100121214957.jpeg"

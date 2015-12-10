@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Ricardo Cabello",
     "id": "20130406-threejs-cannonjs",
+    "twitter": "mrdoob",
     "sameAs": "https://twitter.com/@mrdoob",
     "url": "/talk/20130406-threejs-cannonjs.html",
     "image": "https://pbs.twimg.com/profile_images/443525411226415104/3dA2hCFR.png"

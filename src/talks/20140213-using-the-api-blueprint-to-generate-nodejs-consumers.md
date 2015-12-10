@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Bruno Pedro",
     "id": "20140213-using-the-api-blueprint-to-generate-nodejs-consumers",
+    "twitter": "bpedro",
     "sameAs": "https://twitter.com/@bpedro",
     "url": "/talk/20140213-using-the-api-blueprint-to-generate-nodejs-consumers.html",
     "image": "https://pbs.twimg.com/profile_images/378800000473642830/2f20ecdcd1ec41452b174d04a69e87ee.jpeg"

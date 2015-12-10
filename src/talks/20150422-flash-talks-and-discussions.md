@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "",
     "id": "20150422-flash-talks-and-discussions",
+    "twitter": "",
     "sameAs": "https://twitter.com/@",
     "url": "/talk/20150422-flash-talks-and-discussions.html"
   },

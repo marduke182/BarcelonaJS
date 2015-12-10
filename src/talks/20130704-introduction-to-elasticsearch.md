@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Clinton Gormley",
     "id": "20130704-introduction-to-elasticsearch",
+    "twitter": "clintongormley",
     "sameAs": "https://twitter.com/@clintongormley",
     "url": "/talk/20130704-introduction-to-elasticsearch.html",
     "image": "https://pbs.twimg.com/profile_images/83441474/drtech.jpg"

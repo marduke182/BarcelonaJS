@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Jorge Dias",
     "id": "20150122-development-environments-using-fig",
+    "twitter": "dias_jorge",
     "sameAs": "https://twitter.com/@dias_jorge",
     "url": "/talk/20150122-development-environments-using-fig.html"
   },

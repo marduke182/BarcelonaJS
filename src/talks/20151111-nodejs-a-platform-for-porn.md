@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Dave W.",
     "id": "20151111-nodejs-a-platform-for-porn",
+    "twitter": "",
     "sameAs": "https://twitter.com/@",
     "url": "/talk/20151111-nodejs-a-platform-for-porn.html",
     "image": "https://avatars0.githubusercontent.com/u/1398082?v=3&s=400"

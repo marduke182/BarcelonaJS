@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Tugdual Grall",
     "id": "20130406-building-a-node-application-with-couchbase-node-and-angular",
+    "twitter": "tgrall",
     "sameAs": "https://twitter.com/@tgrall",
     "url": "/talk/20130406-building-a-node-application-with-couchbase-node-and-angular.html",
     "image": "https://pbs.twimg.com/profile_images/420663813042479104/UyAEiEiy.jpeg"

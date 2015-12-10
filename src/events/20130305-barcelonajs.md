@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Jaume Sanchez Elias",
       "id": "20130305-getting-started-with-3d-graphics-in-the-browser-with-webgl-and-threejs",
+      "twitter": "thespite",
       "sameAs": "https://twitter.com/@thespite",
       "url": "/talk/20130305-getting-started-with-3d-graphics-in-the-browser-with-webgl-and-threejs.html",
       "image": "https://pbs.twimg.com/profile_images/2899200786/8627040d4affe3d9ff80c9e861f8ba34.png"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Germán Toro del Valle",
       "id": "20130305-building-web-apps-with-lungo",
+      "twitter": "mrdoob",
       "sameAs": "https://twitter.com/@mrdoob",
       "url": "/talk/20130305-building-web-apps-with-lungo.html",
       "image": "https://pbs.twimg.com/profile_images/768776676/mi_Pocoy__Messenger.jpg"
@@ -64,6 +66,7 @@
       "type": "Person",
       "name": "Javier Beaumont",
       "id": "20130305-classic-board-game-with-jquery-memojs",
+      "twitter": "javierbeaumont",
       "sameAs": "https://twitter.com/@javierbeaumont",
       "url": "/talk/20130305-classic-board-game-with-jquery-memojs.html",
       "image": "https://pbs.twimg.com/profile_images/646703747/116573-160-20100121214957.jpeg"

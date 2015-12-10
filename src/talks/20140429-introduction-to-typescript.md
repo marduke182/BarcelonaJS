@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Pedro Casaubon",
     "id": "20140429-introduction-to-typescript",
+    "twitter": "xperiments",
     "sameAs": "https://twitter.com/@xperiments",
     "url": "/talk/20140429-introduction-to-typescript.html",
     "image": "http://xperiments.github.io/xperiments_avatar.png"

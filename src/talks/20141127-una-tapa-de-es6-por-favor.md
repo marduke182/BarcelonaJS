@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Eduard Tomàs",
     "id": "20141127-una-tapa-de-es6-por-favor",
+    "twitter": "eiximenis",
     "sameAs": "https://twitter.com/@eiximenis",
     "url": "/talk/20141127-una-tapa-de-es6-por-favor.html"
   },

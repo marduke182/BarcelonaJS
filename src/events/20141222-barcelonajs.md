@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Javier Arias",
       "id": "20141222-fullstack-message-bus-with-javascript-rabbitmq-and-postaljs",
+      "twitter": "@javier_arilos",
       "sameAs": "https://twitter.com/@@javier_arilos",
       "url": "/talk/20141222-fullstack-message-bus-with-javascript-rabbitmq-and-postaljs.html"
     }

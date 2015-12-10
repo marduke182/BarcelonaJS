@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Christian Kvalheim",
     "id": "20131210-an-introduction-to-the-mongodb-nodejs-driver",
+    "twitter": "christkv",
     "sameAs": "https://twitter.com/@christkv",
     "url": "/talk/20131210-an-introduction-to-the-mongodb-nodejs-driver.html",
     "image": "https://pbs.twimg.com/profile_images/64812976/00ra1921.jpg"

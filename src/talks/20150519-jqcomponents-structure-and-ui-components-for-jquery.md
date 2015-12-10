@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Jakob Jenkov",
     "id": "20150519-jqcomponents-structure-and-ui-components-for-jquery",
+    "twitter": "jjenkov",
     "sameAs": "https://twitter.com/@jjenkov",
     "url": "/talk/20150519-jqcomponents-structure-and-ui-components-for-jquery.html",
     "image": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg"

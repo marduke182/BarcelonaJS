@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Sergi Cortés",
     "id": "20141127-una-simple-app-con-meteor-10",
+    "twitter": "sergi_c",
     "sameAs": "https://twitter.com/@sergi_c",
     "url": "/talk/20141127-una-simple-app-con-meteor-10.html"
   },

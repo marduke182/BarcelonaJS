@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Ilya Zayats",
     "id": "20150909-migrating-from-backbone-to-react-and-immutable-data-without-brain-overload",
+    "twitter": "somebody32",
     "sameAs": "https://twitter.com/@somebody32",
     "url": "/talk/20150909-migrating-from-backbone-to-react-and-immutable-data-without-brain-overload.html",
     "image": "https://avatars3.githubusercontent.com/u/25742?v=3&s=400"

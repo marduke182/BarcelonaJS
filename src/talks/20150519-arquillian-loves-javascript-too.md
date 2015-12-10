@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Alex Soto",
     "id": "20150519-arquillian-loves-javascript-too",
+    "twitter": "alexsotob",
     "sameAs": "https://twitter.com/@alexsotob",
     "url": "/talk/20150519-arquillian-loves-javascript-too.html",
     "image": "https://avatars2.githubusercontent.com/u/1517153?v=3&s=400"

@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Alina Mierlus",
       "id": "20130910-firefoxos-1-opening-the-web-to-billions-of-new-web-developers-and-users",
+      "twitter": "alina_mierlus",
       "sameAs": "https://twitter.com/@alina_mierlus",
       "url": "/talk/20130910-firefoxos-1-opening-the-web-to-billions-of-new-web-developers-and-users.html",
       "image": "https://pbs.twimg.com/profile_images/378800000446314388/57b7b611b1adbb7788f48b16333a5527.jpeg"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Sergi A.",
       "id": "20130910-firefoxos-2-opening-the-web-to-billions-of-new-web-developers-and-users",
+      "twitter": "@trufae",
       "sameAs": "https://twitter.com/@@trufae",
       "url": "/talk/20130910-firefoxos-2-opening-the-web-to-billions-of-new-web-developers-and-users.html",
       "image": "https://pbs.twimg.com/profile_images/430343297224437760/KxsZykF6.jpeg"
@@ -64,6 +66,7 @@
       "type": "Person",
       "name": "Dr. David Rodenas",
       "id": "20130910-promises-for-javascript",
+      "twitter": "drpicox",
       "sameAs": "https://twitter.com/@drpicox",
       "url": "/talk/20130910-promises-for-javascript.html",
       "image": "https://pbs.twimg.com/profile_images/2767400938/49663d817fffad1f539c983b203b3067.jpeg"

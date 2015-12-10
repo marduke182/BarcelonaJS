@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Raúl Jiménez",
     "id": "20131008-videogular-an-html5-video-player-for-angularjs",
+    "twitter": "elecash",
     "sameAs": "https://twitter.com/@elecash",
     "url": "/talk/20131008-videogular-an-html5-video-player-for-angularjs.html",
     "image": "https://pbs.twimg.com/profile_images/2583754184/f65z45n4i6jpr3xzau7v.png"

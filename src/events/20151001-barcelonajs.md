@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Ivan Fraixedes",
       "id": "20151001-an-introduction-to-lovefield-cross-browser-rdb",
+      "twitter": "ifraixedes",
       "sameAs": "https://twitter.com/@ifraixedes",
       "url": "/talk/20151001-an-introduction-to-lovefield-cross-browser-rdb.html",
       "image": "https://avatars2.githubusercontent.com/u/1731633?v=3&s=400"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Jordi Gomez",
       "id": "20151001-nodejs-threading-mode",
+      "twitter": "jgomezb79",
       "sameAs": "https://twitter.com/@jgomezb79",
       "url": "/talk/20151001-nodejs-threading-mode.html",
       "image": "https://avatars2.githubusercontent.com/u/1548185?v=3&s=400"

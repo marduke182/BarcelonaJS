@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Leonid Kyrpychenko",
     "id": "20150519-qumram-analytics",
+    "twitter": "distributedLeo",
     "sameAs": "https://twitter.com/@distributedLeo",
     "url": "/talk/20150519-qumram-analytics.html",
     "image": "https://pbs.twimg.com/profile_images/537011905554960384/HgcnZ5RK.jpeg"

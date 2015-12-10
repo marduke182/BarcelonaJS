@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "NodeConf",
       "id": "20151121-nodeconf-barcelona",
+      "twitter": "NodeConfBcn",
       "sameAs": "https://twitter.com/@NodeConfBcn",
       "url": "/talk/20151121-nodeconf-barcelona.html",
       "image": "http://barcelona.nodeconf.com/assets/img/nodeconf-thumb.png"

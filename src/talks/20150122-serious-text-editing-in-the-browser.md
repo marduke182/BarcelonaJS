@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Marijn Haverbeke",
     "id": "20150122-serious-text-editing-in-the-browser",
+    "twitter": "marijnjh",
     "sameAs": "https://twitter.com/@marijnjh",
     "url": "/talk/20150122-serious-text-editing-in-the-browser.html"
   },

@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Miguel Camba",
     "id": "20140314-meet-emberjs",
+    "twitter": "miguelcamba",
     "sameAs": "https://twitter.com/@miguelcamba",
     "url": "/talk/20140314-meet-emberjs.html",
     "image": "https://pbs.twimg.com/profile_images/1283021990/foto_180.jpg"

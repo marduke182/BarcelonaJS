@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Tim Perry",
     "id": "20151111-typescript-will-finally-bring-peace-to-your-troubled-soul",
+    "twitter": "pimterry",
     "sameAs": "https://twitter.com/@pimterry",
     "url": "/talk/20151111-typescript-will-finally-bring-peace-to-your-troubled-soul.html",
     "image": "https://avatars3.githubusercontent.com/u/1526883?v=3&s=400"

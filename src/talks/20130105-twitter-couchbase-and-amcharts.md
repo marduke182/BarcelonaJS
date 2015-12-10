@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Pablo Casado",
     "id": "20130105-twitter-couchbase-and-amcharts",
+    "twitter": "hardlifeofapo",
     "sameAs": "https://twitter.com/@hardlifeofapo",
     "url": "/talk/20130105-twitter-couchbase-and-amcharts.html",
     "image": "https://pbs.twimg.com/profile_images/443097980259037184/F91JqvV9.jpeg"

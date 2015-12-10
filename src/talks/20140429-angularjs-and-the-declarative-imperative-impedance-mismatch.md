@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Jakob Jenkov",
     "id": "20140429-angularjs-and-the-declarative-imperative-impedance-mismatch",
+    "twitter": "jjenkov",
     "sameAs": "https://twitter.com/@jjenkov",
     "url": "/talk/20140429-angularjs-and-the-declarative-imperative-impedance-mismatch.html",
     "image": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg"

@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Guillermo Ferrer",
     "id": "20130506-angularjs",
+    "twitter": "guilleferrer",
     "sameAs": "https://twitter.com/@guilleferrer",
     "url": "/talk/20130506-angularjs.html",
     "image": "https://pbs.twimg.com/profile_images/1616997786/fbpic.jpg"

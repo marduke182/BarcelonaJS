@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Daniel Comas Fernández",
     "id": "20150318-developing-mobile-web-apps-for-the-real-world-with-ionic-framework",
+    "twitter": "dcomasf",
     "sameAs": "https://twitter.com/@dcomasf",
     "url": "/talk/20150318-developing-mobile-web-apps-for-the-real-world-with-ionic-framework.html",
     "image": "https://avatars2.githubusercontent.com/u/4038192?v=3&s=400"

@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Francesco Iovine",
     "id": "20140429-webapi-in-open-web-apps-and-firefox-os",
+    "twitter": "franciov",
     "sameAs": "https://twitter.com/@franciov",
     "url": "/talk/20140429-webapi-in-open-web-apps-and-firefox-os.html",
     "image": "http://www.francesco.iovine.name/images/foto@2x.png"

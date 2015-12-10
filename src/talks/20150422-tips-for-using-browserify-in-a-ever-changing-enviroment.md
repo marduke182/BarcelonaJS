@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Jean Carlos Meninno",
     "id": "20150422-tips-for-using-browserify-in-a-ever-changing-enviroment",
+    "twitter": "eth0lo",
     "sameAs": "https://twitter.com/@eth0lo",
     "url": "/talk/20150422-tips-for-using-browserify-in-a-ever-changing-enviroment.html",
     "image": "https://avatars2.githubusercontent.com/u/657235?v=3&s=460"

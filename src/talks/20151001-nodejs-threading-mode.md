@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Jordi Gomez",
     "id": "20151001-nodejs-threading-mode",
+    "twitter": "jgomezb79",
     "sameAs": "https://twitter.com/@jgomezb79",
     "url": "/talk/20151001-nodejs-threading-mode.html",
     "image": "https://avatars2.githubusercontent.com/u/1548185?v=3&s=400"

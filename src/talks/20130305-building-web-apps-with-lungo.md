@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Germán Toro del Valle",
     "id": "20130305-building-web-apps-with-lungo",
+    "twitter": "mrdoob",
     "sameAs": "https://twitter.com/@mrdoob",
     "url": "/talk/20130305-building-web-apps-with-lungo.html",
     "image": "https://pbs.twimg.com/profile_images/768776676/mi_Pocoy__Messenger.jpg"

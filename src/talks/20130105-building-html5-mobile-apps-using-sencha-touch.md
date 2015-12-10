@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Steffen Hiller",
     "id": "20130105-building-html5-mobile-apps-using-sencha-touch",
+    "twitter": "steffenhiller",
     "sameAs": "https://twitter.com/@steffenhiller",
     "url": "/talk/20130105-building-html5-mobile-apps-using-sencha-touch.html",
     "image": "https://pbs.twimg.com/profile_images/1229942200/twitter_profile.jpg"

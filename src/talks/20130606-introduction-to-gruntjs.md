@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Dr. David Rodenas",
     "id": "20130606-introduction-to-gruntjs",
+    "twitter": "drpicox",
     "sameAs": "https://twitter.com/@drpicox",
     "url": "/talk/20130606-introduction-to-gruntjs.html",
     "image": "https://pbs.twimg.com/profile_images/2767400938/49663d817fffad1f539c983b203b3067.jpeg"

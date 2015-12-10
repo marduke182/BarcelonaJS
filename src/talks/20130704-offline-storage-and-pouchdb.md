@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Toni Hermoso Pulido",
     "id": "20130704-offline-storage-and-pouchdb",
+    "twitter": "toniher",
     "sameAs": "https://twitter.com/@toniher",
     "url": "/talk/20130704-offline-storage-and-pouchdb.html",
     "image": "https://pbs.twimg.com/profile_images/451107796612702208/CDsEX0oa.jpeg"

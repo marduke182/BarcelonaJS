@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Alejandro El Informatico",
       "id": "20140314-backbone-marionette-and-other-puppets",
+      "twitter": "ainformatico",
       "sameAs": "https://twitter.com/@ainformatico",
       "url": "/talk/20140314-backbone-marionette-and-other-puppets.html"
     },
@@ -55,6 +56,7 @@
       "type": "Person",
       "name": "Miguel Camba",
       "id": "20140314-meet-emberjs",
+      "twitter": "miguelcamba",
       "sameAs": "https://twitter.com/@miguelcamba",
       "url": "/talk/20140314-meet-emberjs.html",
       "image": "https://pbs.twimg.com/profile_images/1283021990/foto_180.jpg"

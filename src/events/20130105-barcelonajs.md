@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Bruno Pedro",
       "id": "20130105-node-fs",
+      "twitter": "bpedro",
       "sameAs": "https://twitter.com/@bpedro",
       "url": "/talk/20130105-node-fs.html",
       "image": "https://pbs.twimg.com/profile_images/378800000473642830/2f20ecdcd1ec41452b174d04a69e87ee.jpeg"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Pablo Casado",
       "id": "20130105-twitter-couchbase-and-amcharts",
+      "twitter": "hardlifeofapo",
       "sameAs": "https://twitter.com/@hardlifeofapo",
       "url": "/talk/20130105-twitter-couchbase-and-amcharts.html",
       "image": "https://pbs.twimg.com/profile_images/443097980259037184/F91JqvV9.jpeg"
@@ -64,6 +66,7 @@
       "type": "Person",
       "name": "Steffen Hiller",
       "id": "20130105-building-html5-mobile-apps-using-sencha-touch",
+      "twitter": "steffenhiller",
       "sameAs": "https://twitter.com/@steffenhiller",
       "url": "/talk/20130105-building-html5-mobile-apps-using-sencha-touch.html",
       "image": "https://pbs.twimg.com/profile_images/1229942200/twitter_profile.jpg"

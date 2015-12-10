@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "David Rodenas",
     "id": "20140527-js-and-patterns",
+    "twitter": "drpicox",
     "sameAs": "https://twitter.com/@drpicox",
     "url": "/talk/20140527-js-and-patterns.html",
     "image": "https://avatars1.githubusercontent.com/u/2758345?s=460"

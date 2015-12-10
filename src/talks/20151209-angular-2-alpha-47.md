@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Raúl Jiménez",
     "id": "20151209-angular-2-alpha-47",
+    "twitter": "elecash",
     "sameAs": "https://twitter.com/@elecash",
     "url": "/talk/20151209-angular-2-alpha-47.html",
     "image": "https://avatars2.githubusercontent.com/u/790704?v=3&s=400"

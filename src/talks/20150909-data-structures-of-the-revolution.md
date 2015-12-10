@@ -20,6 +20,7 @@
     "type": "Person",
     "name": "James Halliday",
     "id": "20150909-data-structures-of-the-revolution",
+    "twitter": "substack",
     "sameAs": "https://twitter.com/@substack",
     "url": "/talk/20150909-data-structures-of-the-revolution.html",
     "image": "https://avatars1.githubusercontent.com/u/12631?v=3&s=400"

@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Sergio Gimeno",
     "id": "20150422-introduction-to-browserify",
+    "twitter": "_sgimeno",
     "sameAs": "https://twitter.com/@_sgimeno",
     "url": "/talk/20150422-introduction-to-browserify.html",
     "image": "https://pbs.twimg.com/profile_images/1362468987/paris.jpg"

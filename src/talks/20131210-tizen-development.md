@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Julio Cesar Staude",
     "id": "20131210-tizen-development",
+    "twitter": "JulioStaude",
     "sameAs": "https://twitter.com/@JulioStaude",
     "url": "/talk/20131210-tizen-development.html",
     "image": "https://pbs.twimg.com/profile_images/425320964511911936/ccDc0tMe.png"

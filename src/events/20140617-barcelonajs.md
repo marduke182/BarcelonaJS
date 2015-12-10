@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Marijn Haverbeke",
       "id": "20140617-tern-making-your-editor-understand-js",
+      "twitter": "marijnjh",
       "sameAs": "https://twitter.com/@marijnjh",
       "url": "/talk/20140617-tern-making-your-editor-understand-js.html",
       "image": "https://www.webrebels.org/img/speakers/marijn.png"

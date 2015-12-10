@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Jaume Sanchez Elias",
     "id": "20130305-getting-started-with-3d-graphics-in-the-browser-with-webgl-and-threejs",
+    "twitter": "thespite",
     "sameAs": "https://twitter.com/@thespite",
     "url": "/talk/20130305-getting-started-with-3d-graphics-in-the-browser-with-webgl-and-threejs.html",
     "image": "https://pbs.twimg.com/profile_images/2899200786/8627040d4affe3d9ff80c9e861f8ba34.png"

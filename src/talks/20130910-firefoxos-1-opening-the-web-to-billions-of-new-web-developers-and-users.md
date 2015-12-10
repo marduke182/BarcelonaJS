@@ -21,6 +21,7 @@
     "type": "Person",
     "name": "Alina Mierlus",
     "id": "20130910-firefoxos-1-opening-the-web-to-billions-of-new-web-developers-and-users",
+    "twitter": "alina_mierlus",
     "sameAs": "https://twitter.com/@alina_mierlus",
     "url": "/talk/20130910-firefoxos-1-opening-the-web-to-billions-of-new-web-developers-and-users.html",
     "image": "https://pbs.twimg.com/profile_images/378800000446314388/57b7b611b1adbb7788f48b16333a5527.jpeg"

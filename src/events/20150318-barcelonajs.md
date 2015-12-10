@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Daniel Comas Fernández",
       "id": "20150318-developing-mobile-web-apps-for-the-real-world-with-ionic-framework",
+      "twitter": "dcomasf",
       "sameAs": "https://twitter.com/@dcomasf",
       "url": "/talk/20150318-developing-mobile-web-apps-for-the-real-world-with-ionic-framework.html",
       "image": "https://avatars2.githubusercontent.com/u/4038192?v=3&s=400"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Ustun Ozgur",
       "id": "20150318-introduction-to-reactjs",
+      "twitter": "ustunozgur",
       "sameAs": "https://twitter.com/@ustunozgur",
       "url": "/talk/20150318-introduction-to-reactjs.html"
     },
@@ -63,6 +65,7 @@
       "type": "Person",
       "name": "Saint Patrick",
       "id": "20150318-st-patricks-day",
+      "twitter": "#StPatricksDay",
       "sameAs": "https://twitter.com/@#StPatricksDay",
       "url": "/talk/20150318-st-patricks-day.html",
       "image": "http://www.ihypress.ca/stpats/sp1.gif"

@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Jakob Jenkov",
       "id": "20140429-angularjs-and-the-declarative-imperative-impedance-mismatch",
+      "twitter": "jjenkov",
       "sameAs": "https://twitter.com/@jjenkov",
       "url": "/talk/20140429-angularjs-and-the-declarative-imperative-impedance-mismatch.html",
       "image": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Pedro Casaubon",
       "id": "20140429-introduction-to-typescript",
+      "twitter": "xperiments",
       "sameAs": "https://twitter.com/@xperiments",
       "url": "/talk/20140429-introduction-to-typescript.html",
       "image": "http://xperiments.github.io/xperiments_avatar.png"
@@ -64,6 +66,7 @@
       "type": "Person",
       "name": "Francesco Iovine",
       "id": "20140429-webapi-in-open-web-apps-and-firefox-os",
+      "twitter": "franciov",
       "sameAs": "https://twitter.com/@franciov",
       "url": "/talk/20140429-webapi-in-open-web-apps-and-firefox-os.html",
       "image": "http://www.francesco.iovine.name/images/foto@2x.png"

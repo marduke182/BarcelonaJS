@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "David Gallardo",
       "id": "20130506-smoothstep2d",
+      "twitter": "galloscript",
       "sameAs": "https://twitter.com/@galloscript",
       "url": "/talk/20130506-smoothstep2d.html",
       "image": "https://pbs.twimg.com/profile_images/378800000662239616/2d2fbcf0b7c64e76926a041723531bee.png"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Guillermo Ferrer",
       "id": "20130506-angularjs",
+      "twitter": "guilleferrer",
       "sameAs": "https://twitter.com/@guilleferrer",
       "url": "/talk/20130506-angularjs.html",
       "image": "https://pbs.twimg.com/profile_images/1616997786/fbpic.jpg"
@@ -64,6 +66,7 @@
       "type": "Person",
       "name": "Thomas Steiner",
       "id": "20130506-mj-no-more-or-breaking-news-detection-with-wikipedia",
+      "twitter": "tomayac",
       "sameAs": "https://twitter.com/@tomayac",
       "url": "/talk/20130506-mj-no-more-or-breaking-news-detection-with-wikipedia.html",
       "image": "https://pbs.twimg.com/profile_images/378800000632143531/891cd4164b1ba75da1e4732b89a045a0.png"

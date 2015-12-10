@@ -48,6 +48,7 @@
       "type": "Person",
       "name": "Tugdual Grall",
       "id": "20130406-building-a-node-application-with-couchbase-node-and-angular",
+      "twitter": "tgrall",
       "sameAs": "https://twitter.com/@tgrall",
       "url": "/talk/20130406-building-a-node-application-with-couchbase-node-and-angular.html",
       "image": "https://pbs.twimg.com/profile_images/420663813042479104/UyAEiEiy.jpeg"
@@ -56,6 +57,7 @@
       "type": "Person",
       "name": "Ricardo Cabello",
       "id": "20130406-threejs-cannonjs",
+      "twitter": "mrdoob",
       "sameAs": "https://twitter.com/@mrdoob",
       "url": "/talk/20130406-threejs-cannonjs.html",
       "image": "https://pbs.twimg.com/profile_images/443525411226415104/3dA2hCFR.png"
@@ -64,6 +66,7 @@
       "type": "Person",
       "name": "Javier Arturo Rodríguez",
       "id": "20130406-build-multi-platform-apps-with-appcelerator-titanium",
+      "twitter": "codehead",
       "sameAs": "https://twitter.com/@codehead",
       "url": "/talk/20130406-build-multi-platform-apps-with-appcelerator-titanium.html",
       "image": "https://pbs.twimg.com/profile_images/378800000484330570/beb00f7a6f89105e82ae9e710f677a5b.jpeg"
