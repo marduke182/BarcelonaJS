@@ -1,0 +1,78 @@
+---
+{
+  "context": "http://schema.org",
+  "type": "Social event",
+  "location": {
+    "type": "Place",
+    "address": {
+      "type": "PostalAddress",
+      "addressLocality": "Barcelona, Spain",
+      "postalCode": "08001",
+      "streetAddress": "C/ Fontanella 2",
+      "name": "Mobile World Centre"
+    },
+    "url": "http://barcelonajs.org",
+    "duration": "P2H"
+  },
+  "offers": {
+    "type": "Offer",
+    "url": "https://ti.to/barcelonajs",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "availability": "http://schema.org/InStock"
+  },
+  "doorTime": "18:45",
+  "inLanguage": {
+    "type": "Language",
+    "name": "English"
+  },
+  "startDate": "20130105T19:00",
+  "name": "BarcelonaJS",
+  "id": "20130105-barcelonajs",
+  "url": "/event/20130105-barcelonajs",
+  "organizer": {
+    "context": "http://schema.org",
+    "type": "Organization",
+    "address": {
+      "type": "PostalAddress",
+      "addressLocality": "Barcelona, Spain",
+      "postalCode": "08003",
+      "streetAddress": "C/ Mare de Deu del Pilar 20"
+    },
+    "email": "hola(at)barcelonajs.org",
+    "name": "BarcelonaJS",
+    "url": "http://barcelonajs.org"
+  },
+  "performer": [
+    {
+      "type": "Person",
+      "name": "Bruno Pedro",
+      "id": "20130105-node-fs",
+      "twitter": "bpedro",
+      "sameAs": "https://twitter.com/@bpedro",
+      "url": "/talk/20130105-node-fs.html",
+      "image": "https://pbs.twimg.com/profile_images/378800000473642830/2f20ecdcd1ec41452b174d04a69e87ee.jpeg"
+    },
+    {
+      "type": "Person",
+      "name": "Pablo Casado",
+      "id": "20130105-twitter-couchbase-and-amcharts",
+      "twitter": "hardlifeofapo",
+      "sameAs": "https://twitter.com/@hardlifeofapo",
+      "url": "/talk/20130105-twitter-couchbase-and-amcharts.html",
+      "image": "https://pbs.twimg.com/profile_images/443097980259037184/F91JqvV9.jpeg"
+    },
+    {
+      "type": "Person",
+      "name": "Steffen Hiller",
+      "id": "20130105-building-html5-mobile-apps-using-sencha-touch",
+      "twitter": "steffenhiller",
+      "sameAs": "https://twitter.com/@steffenhiller",
+      "url": "/talk/20130105-building-html5-mobile-apps-using-sencha-touch.html",
+      "image": "https://pbs.twimg.com/profile_images/1229942200/twitter_profile.jpg"
+    }
+  ],
+  "layout": "page.html"
+}
+
+---

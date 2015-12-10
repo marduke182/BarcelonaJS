@@ -49,7 +49,7 @@ var bcnjs = function bcnjs(opts) {
     nextEvent.talks = [];
 
     for (var i = 0; i < nextEvent.performer.length; i++) {
-      var talk = files['talks/' + nextEvent.performer[i].id + '.md'];
+      var talk = files['talk/' + nextEvent.performer[i].id + '.md'];
       if (talk.name) {
         nextEvent.talks.push(talk);
       }
@@ -70,7 +70,7 @@ Metalsmith(__dirname)
   }))
   .use(collections({
     talks: {
-      pattern: 'talks/*.md',
+      pattern: 'talk/*.md',
       sortBy: 'startDate',
       reverse: true,
       limit: 1
@@ -78,7 +78,7 @@ Metalsmith(__dirname)
   }))
   .use(collections({
     events: {
-      pattern: 'events/*.md',
+      pattern: 'event/*.md',
       sortBy: 'startDate',
       reverse: true
     }
