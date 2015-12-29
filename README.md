@@ -1,4 +1,6 @@
 # BarcelonaJS
+
+[![Join the chat at https://gitter.im/BarcelonaJS/BarcelonaJS](https://badges.gitter.im/BarcelonaJS/BarcelonaJS.svg)](https://gitter.im/BarcelonaJS/BarcelonaJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The Barcelona Original.
 
 * Website: http://barcelonajs.org
