@@ -3,7 +3,7 @@ The Barcelona Original.
 
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/BarcelonaJS/BarcelonaJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/BarcelonaJS/BarcelonaJS/issues)
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)]()
 
 - [Website](http://barcelonajs.org)
 - [Twitter](http://twitter.com/bcnjs)
