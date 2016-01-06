@@ -3,7 +3,7 @@
 	"twitter": "PatrickHeneise",
 	"portrait": "https://avatars.githubusercontent.com/u/74390?v=3",
 	"email": "patrick@barcelonajs.org",
-  " github": "PatrickHeneise",
+    "github": "PatrickHeneise",
 	"bio": "Co-Founder of BarcelonaJS.org."
 }, {
 	"name": "Jean-Carlos Meninno",
@@ -19,4 +19,11 @@
 	"portrait": "https://avatars0.githubusercontent.com/u/4533717?v=3&s=400",
 	"email": "isabel@barcelonajs.org",
     "bio": "Missing Bio"
+}, {
+    "name": "Raül Pérez",
+    "twitter": "repejota",
+    "github": "repejota",
+    "portrait": "https://avatars.githubusercontent.com/repejota",
+    "email": "raul@barcelonajs.org",
+    "bio": "Collaborator"
 }]
