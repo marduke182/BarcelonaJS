@@ -9,13 +9,13 @@
 	"name": "Jean-Carlos Meninno",
 	"twitter": "eth0lo",
 	"email": "jean@barcelonajs.org",
-    "github": "eth0lo",
-    "portrait": "https://avatars0.githubusercontent.com/u/657235?v=3&s=400",
+	"github": "eth0lo",
+	"portrait": "https://avatars0.githubusercontent.com/u/657235?v=3&s=400",
 	"bio": "Co-Founder of BarcelonaJS.org."
 }, {
 	"name": "Isabel Cabezas",
 	"twitter": "isabelcabezasm",
-    "github": "isabelcabezasm",
+	"github": "isabelcabezasm",
 	"portrait": "https://avatars0.githubusercontent.com/u/4533717?v=3&s=400",
 	"email": "isabel@barcelonajs.org",
     "bio": "Missing Bio"
@@ -26,4 +26,11 @@
     "portrait": "https://avatars.githubusercontent.com/repejota",
     "email": "raul@barcelonajs.org",
     "bio": "Collaborator"
+}, {
+	"name": "Francisco Méndez",
+	"twitter": "fmvilas",
+	"github": "fmvilas",
+	"portrait": "https://avatars.githubusercontent.com/fmvilas",
+	"email": "francisco@barcelonajs.org",
+	"bio": "Collaborator"
 }]
