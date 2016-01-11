@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150318-introduction-to-reactjs",
   "name": "Introduction to React.js",
   "layout": "page.html",

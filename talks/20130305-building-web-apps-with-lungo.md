@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130305-building-web-apps-with-lungo",
   "name": "Building Web Apps with Lungo",
   "layout": "page.html",

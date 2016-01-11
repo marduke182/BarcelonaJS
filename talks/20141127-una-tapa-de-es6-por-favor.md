@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20141127-una-tapa-de-es6-por-favor",
   "name": "¡Una tapa de ES6 por favor!",
   "layout": "page.html",

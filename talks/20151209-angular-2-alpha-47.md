@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20151209-angular-2-alpha-47",
   "name": "Angular 2 Alpha 47",
   "layout": "page.html",
@@ -14,15 +13,6 @@
     "name": "BarcelonaJS"
   },
   "inLanguage": "en",
-  "performer": {
-    "type": "Person",
-    "name": "Raúl Jiménez",
-    "id": "20151209-angular-2-alpha-47",
-    "twitter": "elecash",
-    "sameAs": "https://twitter.com/@elecash",
-    "url": "/talk/20151209-angular-2-alpha-47.html",
-    "image": "https://avatars2.githubusercontent.com/u/790704?v=3&s=400"
-  },
   "workPerformed": {
     "type": "CreativeWork",
     "learningResourceType": "presentation",
@@ -31,14 +21,16 @@
   "workFeatured": {
     "type": "CreativeWork",
     "learningResourceType": "source code",
-    "id": "https://github.com/Elecash/angular2-seed"
+    "id": "http://slides.com/elecash/creating-angular2-alpha-48-app-that-works/#/"
   },
-  "recordedIn": {
-    "type": "CreativeWork",
-    "video": {
-      "type": "VideoObject",
-      "id": "https://vimeo.com/102811135"
-    }
+  "performer": {
+    "type": "Person",
+    "name": "Raúl Jiménez",
+    "id": "20151209-angular-2-alpha-47",
+    "twitter": "elecash",
+    "sameAs": "https://twitter.com/@elecash",
+    "url": "/talk/20151209-angular-2-alpha-47.html",
+    "image": "https://avatars2.githubusercontent.com/u/790704?v=3&s=400"
   }
 }
 ---

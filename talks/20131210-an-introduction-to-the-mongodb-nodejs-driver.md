@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20131210-an-introduction-to-the-mongodb-nodejs-driver",
   "name": "An introduction to the MongoDB Node.js driver",
   "layout": "page.html",

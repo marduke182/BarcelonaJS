@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130704-introduction-to-elasticsearch",
   "name": "Introduction to Elasticsearch",
   "layout": "page.html",

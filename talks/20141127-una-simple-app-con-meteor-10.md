@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20141127-una-simple-app-con-meteor-10",
   "name": "Una simple app con Meteor 1.0!",
   "layout": "page.html",

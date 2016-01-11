@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130506-smoothstep2d",
   "name": "SmoothStep2D",
   "layout": "page.html",

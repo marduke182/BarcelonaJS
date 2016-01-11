@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20131112-using-pouchdb-for-phonegapcordova-apps",
   "name": "Using PouchDB for PhoneGap/Cordova apps",
   "layout": "page.html",

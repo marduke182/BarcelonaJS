@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130105-twitter-couchbase-and-amcharts",
   "name": "Twitter, Couchbase and amCharts",
   "layout": "page.html",

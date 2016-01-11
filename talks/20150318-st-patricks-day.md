@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150318-st-patricks-day",
   "name": "St. Patrick's Day!",
   "layout": "page.html",

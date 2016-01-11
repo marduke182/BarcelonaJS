@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130406-build-multi-platform-apps-with-appcelerator-titanium",
   "name": "Build multi-platform apps with Appcelerator Titanium",
   "layout": "page.html",

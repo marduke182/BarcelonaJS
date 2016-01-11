@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150909-data-structures-of-the-revolution",
   "name": "Data structures of the revolution",
   "layout": "page.html",

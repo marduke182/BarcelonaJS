@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140213-using-the-api-blueprint-to-generate-nodejs-consumers",
   "name": "Using the API Blueprint to generate nodejs consumers",
   "layout": "page.html",

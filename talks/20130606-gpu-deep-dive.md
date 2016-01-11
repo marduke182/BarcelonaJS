@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130606-gpu-deep-dive",
   "name": "GPU Deep Dive",
   "layout": "page.html",

@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130305-classic-board-game-with-jquery-memojs",
   "name": "Classic Board Game with jQuery: memo.js",
   "layout": "page.html",

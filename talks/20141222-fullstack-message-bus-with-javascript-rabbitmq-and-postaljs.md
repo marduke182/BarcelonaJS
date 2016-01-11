@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20141222-fullstack-message-bus-with-javascript-rabbitmq-and-postaljs",
   "name": "Fullstack Message Bus with Javascript, RabbitMQ and postal.js ",
   "layout": "page.html",

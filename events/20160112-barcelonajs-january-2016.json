@@ -13,10 +13,10 @@
     "url": "https://www.mobileworldcentre.com"
   },
   "duration": "PT2H",
-  "url": "/event/20151209-barcelonajs",
-  "startDate": "20151209T19:00",
+  "url": "/event/20160112-barcelonajs",
+  "startDate": "20160112T19:00",
   "name": "BarcelonaJS",
-  "id": "20151209-barcelonajs",
+  "id": "20160112-barcelonajs",
   "organizer": {
     "type": "Organization",
     "address": {
@@ -32,12 +32,21 @@
   "performer": [
     {
       "type": "Person",
-      "name": "Raúl Jiménez",
-      "id": "20151209-angular-2-alpha-47",
-      "twitter": "elecash",
-      "sameAs": "https://twitter.com/@elecash",
-      "url": "/talk/20151209-angular-2-alpha-47.html",
-      "image": "https://avatars2.githubusercontent.com/u/790704?v=3&s=400"
+      "name": "Ivan Fraixedes",
+      "id": "20160112-generators-async-function-introduction",
+      "twitter": "ifraixedes",
+      "sameAs": "https://twitter.com/@ifraixedes",
+      "url": "/talk/20160112-generators-async-function-introduction.html",
+      "image": "https://avatars2.githubusercontent.com/u/1731633?v=3&s=400"
+    },
+    {
+      "type": "Person",
+      "name": "Luis Crespo",
+      "id": "20160112-sound-synthesis-with-web-audio",
+      "twitter": "lcrespom",
+      "sameAs": "https://twitter.com/@lcrespom",
+      "url": "/talk/20160112-sound-synthesis-with-web-audio.html",
+      "image": "https://avatars3.githubusercontent.com/u/5002130?v=3&s=400"
     }
   ],
   "layout": "page.html"

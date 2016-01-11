@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140722-client-side-storage-past-present-and-future",
   "name": "Client-Side Storage: Past, Present and Future",
   "layout": "page.html",

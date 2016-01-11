@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150422-tips-for-using-browserify-in-a-ever-changing-enviroment",
   "name": "Tips for using browserify in a ever changing enviroment",
   "layout": "page.html",

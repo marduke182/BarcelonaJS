@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150909-migrating-from-backbone-to-react-and-immutable-data-without-brain-overload",
   "name": "Migrating from Backbone to React and Immutable data without brain overload",
   "layout": "page.html",

@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130105-building-html5-mobile-apps-using-sencha-touch",
   "name": "Building HTML5 mobile apps using Sencha Touch",
   "layout": "page.html",

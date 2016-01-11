@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150122-serious-text-editing-in-the-browser",
   "name": "Serious text editing in the browser",
   "layout": "page.html",

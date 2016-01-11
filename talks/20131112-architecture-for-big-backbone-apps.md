@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20131112-architecture-for-big-backbone-apps",
   "name": "Architecture for big Backbone Apps",
   "layout": "page.html",

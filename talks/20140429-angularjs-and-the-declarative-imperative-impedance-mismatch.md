@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140429-angularjs-and-the-declarative-imperative-impedance-mismatch",
   "name": "AngularJS and the Declarative / Imperative Impedance Mismatch",
   "layout": "page.html",

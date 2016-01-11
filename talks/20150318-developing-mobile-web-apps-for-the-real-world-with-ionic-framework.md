@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150318-developing-mobile-web-apps-for-the-real-world-with-ionic-framework",
   "name": "Developing mobile web apps for the real world with Ionic Framework",
   "layout": "page.html",

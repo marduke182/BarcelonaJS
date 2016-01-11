@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150122-development-environments-using-fig",
   "name": "Development environments using fig",
   "layout": "page.html",

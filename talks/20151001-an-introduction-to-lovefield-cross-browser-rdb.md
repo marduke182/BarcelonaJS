@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20151001-an-introduction-to-lovefield-cross-browser-rdb",
   "name": "An introduction to Lovefield, cross-browser RDB",
   "layout": "page.html",

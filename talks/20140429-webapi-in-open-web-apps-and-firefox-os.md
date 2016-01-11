@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140429-webapi-in-open-web-apps-and-firefox-os",
   "name": "WebAPI in Open Web Apps and Firefox OS",
   "layout": "page.html",

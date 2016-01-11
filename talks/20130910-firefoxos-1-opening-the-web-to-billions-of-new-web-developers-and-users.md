@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130910-firefoxos-1-opening-the-web-to-billions-of-new-web-developers-and-users",
   "name": "FirefoxOS (1) - opening the web to billions of new web developers and users",
   "layout": "page.html",

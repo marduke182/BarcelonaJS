@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140722-javascript-y-por-que-no-comparar-la-velocidad-con-el-tocino",
   "name": "JavaScript y por qué no comparar la velocidad con el tocino",
   "layout": "page.html",

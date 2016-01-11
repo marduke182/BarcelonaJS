@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20151001-nodejs-threading-mode",
   "name": "NodeJS threading mode",
   "layout": "page.html",

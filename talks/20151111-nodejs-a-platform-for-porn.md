@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20151111-nodejs-a-platform-for-porn",
   "name": "NodeJS - A platform for PORN!",
   "layout": "page.html",

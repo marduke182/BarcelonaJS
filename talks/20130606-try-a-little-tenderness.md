@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130606-try-a-little-tenderness",
   "name": "Try a little tenderness",
   "layout": "page.html",

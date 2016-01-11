@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140213-introduction-to-testing-with-angularjs",
   "name": "Introduction to testing with AngularJS",
   "layout": "page.html",

@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20131008-videogular-an-html5-video-player-for-angularjs",
   "name": "Videogular: An HTML5 video player for AngularJS",
   "layout": "page.html",

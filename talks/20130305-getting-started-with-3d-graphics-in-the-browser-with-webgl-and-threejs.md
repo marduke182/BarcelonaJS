@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130305-getting-started-with-3d-graphics-in-the-browser-with-webgl-and-threejs",
   "name": "Getting started with 3D graphics in the browser with WebGL and three.js",
   "layout": "page.html",

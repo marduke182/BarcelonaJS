@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20131210-xmas-special-js",
   "name": "Xmas Special JS",
   "layout": "page.html",

@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20151111-typescript-will-finally-bring-peace-to-your-troubled-soul",
   "name": "TypeScript will finally bring peace to your troubled soul",
   "layout": "page.html",

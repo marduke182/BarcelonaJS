@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150519-qumram-analytics",
   "name": "Qumram Analytics",
   "layout": "page.html",

@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20150219-jquery-plugin-for-better-html-file-inputs",
   "name": "jQuery plugin for better HTML file inputs",
   "layout": "page.html",

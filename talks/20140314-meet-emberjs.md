@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140314-meet-emberjs",
   "name": "Meet Ember.js",
   "layout": "page.html",

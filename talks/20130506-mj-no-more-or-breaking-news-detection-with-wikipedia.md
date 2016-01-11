@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130506-mj-no-more-or-breaking-news-detection-with-wikipedia",
   "name": "MJ no more, or breaking news detection with Wikipedia",
   "layout": "page.html",

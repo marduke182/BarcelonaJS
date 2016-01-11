@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20131112-from-jquery-to-angularjs",
   "name": "From jQuery to AngularJS",
   "layout": "page.html",

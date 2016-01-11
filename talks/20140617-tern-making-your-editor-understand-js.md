@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20140617-tern-making-your-editor-understand-js",
   "name": "Tern: making your editor understand JS",
   "layout": "page.html",

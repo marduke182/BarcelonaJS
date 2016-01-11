@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130910-promises-for-javascript",
   "name": "Promises for Javascript",
   "layout": "page.html",

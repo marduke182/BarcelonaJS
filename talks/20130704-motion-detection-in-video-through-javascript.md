@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130704-motion-detection-in-video-through-javascript",
   "name": "Motion Detection In Video Through JavaScript",
   "layout": "page.html",

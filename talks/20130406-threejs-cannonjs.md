@@ -1,8 +1,7 @@
 ---
 {
-  "context": "http://schema.org",
   "type": "Educational event",
-  "duration": "P30M",
+  "duration": "PT30M",
   "id": "20130406-threejs-cannonjs",
   "name": "three.js + cannon.js",
   "layout": "page.html",
