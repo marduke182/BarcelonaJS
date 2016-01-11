@@ -7,6 +7,12 @@
   "name": "An introduction to Lovefield, cross-browser RDB",
   "layout": "page.html",
   "description": "In this talk I will give an introduction to [Lovefield](https://google.github.io/lovefield/), a cross-browser SQL-Like, relational query engine for web, written purely in Javascript.\nI will make an introduction why has been created, what problems it does help to solve, its quirks and the reasons of them.\nI will also briefly introduce [sql.js](https://github.com/kripken/sql.js/) to end up with a live simple demo comparing both.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20151001-barcelonajs",
+    "id": "20151001-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

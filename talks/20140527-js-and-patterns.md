@@ -7,6 +7,12 @@
   "name": "JS and Patterns",
   "layout": "page.html",
   "description": "Software patterns allows to create easier to maintain applications. This presentation will show some basics and how to take advantage of them and fight bad habits.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140527-barcelonajs",
+    "id": "20140527-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

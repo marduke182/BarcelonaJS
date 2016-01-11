@@ -7,6 +7,12 @@
   "name": "Tern: making your editor understand JS",
   "layout": "page.html",
   "description": "Tern is an attempt to improve the editor integration situation for JavaScript. It is a stand-alone type inference engine that talks to editor plugins to provide type information, completion, and other helpful features. I'll show what Tern can do, and explain how it does it.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140617-barcelonajs",
+    "id": "20140617-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

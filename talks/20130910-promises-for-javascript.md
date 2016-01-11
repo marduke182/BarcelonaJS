@@ -7,6 +7,12 @@
   "name": "Promises for Javascript",
   "layout": "page.html",
   "description": "This is the end of weird callback structures. Javascript codes are usually full of callbacks; they are so complex... Promises make them easy: cleaner method signatures, cleaner return/error semantics, simple compositions, easy parallel/join structures... And they are awesome. I promise.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130910-barcelonajs",
+    "id": "20130910-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

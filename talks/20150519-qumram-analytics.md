@@ -7,6 +7,12 @@
   "name": "Qumram Analytics",
   "layout": "page.html",
   "description": "Qumram.com provides capabilities to track user behaviour and replay user interaction as a movie, so I can shortly describe architecture, technologies and a few lesson learnt things.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20150519-barcelonajs",
+    "id": "20150519-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

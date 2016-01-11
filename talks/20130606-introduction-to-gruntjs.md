@@ -7,6 +7,12 @@
   "name": "Introduction to GruntJS",
   "layout": "page.html",
   "description": "Optimize a web page with a single command. Grunt is the Makefile for JS projects. In this talk I present what is Grunt, which is its philosophy, and a small example how to use it. And the best of it, how to build and optimize everything with a simple command.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130606-barcelonajs",
+    "id": "20130606-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

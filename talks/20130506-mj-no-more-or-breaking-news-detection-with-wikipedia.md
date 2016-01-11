@@ -7,6 +7,12 @@
   "name": "MJ no more, or breaking news detection with Wikipedia",
   "layout": "page.html",
   "description": "In this talk, we will report on a Node.js application that uses concurrent Wikipedia edit spikes for the purpose of breaking news detection.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130506-barcelonajs",
+    "id": "20130506-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

@@ -7,6 +7,12 @@
   "name": "three.js + cannon.js",
   "layout": "page.html",
   "description": "Real time rendered 3D graphics on the web is so last month. Adding a real time 3D physics engine into the mix is where is at. Learn how three.js and cannon.js make this a piece of cake.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130406-barcelonajs",
+    "id": "20130406-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workFeatured": {
     "type": "CreativeWork",

@@ -7,6 +7,12 @@
   "name": "NodeConf Barcelona",
   "layout": "page.html",
   "description": "12 speakers, single track, non-profit conference for node.js enthusiasts, fans and newcomers.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20151121-barcelonajs",
+    "id": "20151121-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "performer": {
     "type": "Person",
     "name": "NodeConf",

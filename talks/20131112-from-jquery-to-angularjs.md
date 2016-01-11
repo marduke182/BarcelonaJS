@@ -7,6 +7,12 @@
   "name": "From jQuery to AngularJS",
   "layout": "page.html",
   "description": "From jQuery to AngularJS will be a talk for jQuery gods to become superheroic Angularistas. I'll start by explaining how jQuery works, how to create a todo application and then move on to an introduction of AngularJS and how to create the same application but in AngularJS instead of jQuery.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20131112-barcelonajs",
+    "id": "20131112-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

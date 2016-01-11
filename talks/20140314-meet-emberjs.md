@@ -7,6 +7,12 @@
   "name": "Meet Ember.js",
   "layout": "page.html",
   "description": "There's a new framework in town. Probably you've heard about it. It's time to know what's all the buzz about. A brief introduction to Ember as a framework and the phylosophy behind it.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140314-barcelonajs",
+    "id": "20140314-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

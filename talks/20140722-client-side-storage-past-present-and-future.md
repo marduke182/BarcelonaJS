@@ -7,6 +7,12 @@
   "name": "Client-Side Storage: Past, Present and Future",
   "layout": "page.html",
   "description": "A brief history of client-side storage followed by a more in-depth review of Web Storage, Web SQL Database and Indexed Database before concluding with a look towards the Filesystem API",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140722-barcelonajs",
+    "id": "20140722-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

@@ -7,6 +7,12 @@
   "name": "AngularJS",
   "layout": "page.html",
   "description": "AngularJS, HTML enhanced for web apps! ( by Google ) In this talk we will see an introduction of AngularJS, starting from the basics and ending with the usage of directives, services and filters.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130506-barcelonajs",
+    "id": "20130506-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

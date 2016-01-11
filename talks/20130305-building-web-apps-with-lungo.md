@@ -7,6 +7,12 @@
   "name": "Building Web Apps with Lungo",
   "layout": "page.html",
   "description": "You'll learn how to quickly build web apps using Lungo, taking advantage of the new elements and semantics HTML5 adds to the HTML language.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130305-barcelonajs",
+    "id": "20130305-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workFeatured": {
     "type": "CreativeWork",

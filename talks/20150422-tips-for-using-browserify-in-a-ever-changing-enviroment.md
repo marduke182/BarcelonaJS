@@ -7,6 +7,12 @@
   "name": "Tips for using browserify in a ever changing enviroment",
   "layout": "page.html",
   "description": "Tips for using browserify in a ever changing enviroment",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20150422-barcelonajs",
+    "id": "20150422-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

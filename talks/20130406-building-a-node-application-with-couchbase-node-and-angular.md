@@ -7,6 +7,12 @@
   "name": "Building a node application with Couchbase, Node and Angular.",
   "layout": "page.html",
   "description": "Learn more about NoSQL and MapReduce with Couchbase, and see how you can easily leverage it into your node application.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130406-barcelonajs",
+    "id": "20130406-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

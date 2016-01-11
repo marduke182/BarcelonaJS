@@ -7,6 +7,12 @@
   "name": "Tizen Development",
   "layout": "page.html",
   "description": "Tizen is an Open Source Operative System, designed to run in smartphones, smart tvs, tablets and vehicles",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20131210-barcelonajs",
+    "id": "20131210-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

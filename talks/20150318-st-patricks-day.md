@@ -7,6 +7,12 @@
   "name": "St. Patrick's Day!",
   "layout": "page.html",
   "description": "After the talks we'll take cabs straight to Michael Collins Pub (Plaça de la Sagrada Família 4) to celebrate St. Patrick's Day.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20150318-barcelonajs",
+    "id": "20150318-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

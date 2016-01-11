@@ -7,6 +7,12 @@
   "name": "Using PouchDB for PhoneGap/Cordova apps",
   "layout": "page.html",
   "description": "This talk will focus on my experiences deploying Android apps that sync with CouchDB. I will focus mostly on PouchDB but will also discuss the other frameworks I have been using to deploy Android applications (Backbone.js, Coconut, GCM/Urban Airship, PhoneGap/Cordova).",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20131112-barcelonajs",
+    "id": "20131112-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

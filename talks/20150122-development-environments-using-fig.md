@@ -7,6 +7,12 @@
   "name": "Development environments using fig",
   "layout": "page.html",
   "description": "Jorge Dias, Software Engineer turned Devops @ Xing, responsible for development and testing environments is going to talk about the research being done at Xing regarding the use of docker and will do a brief overview of working with fig and some custom tools to improve the workflow.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20150122-barcelonajs",
+    "id": "20150122-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

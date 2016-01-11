@@ -7,6 +7,12 @@
   "name": "Classic Board Game with jQuery: memo.js",
   "layout": "page.html",
   "description": "jQuery is enough to get simple board games with few code lines. Memorize is one of the simplest games of this genre. Combine them and obtain your first JavaScript game in few minutes. ",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130305-barcelonajs",
+    "id": "20130305-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

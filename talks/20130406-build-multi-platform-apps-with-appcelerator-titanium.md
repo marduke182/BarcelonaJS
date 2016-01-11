@@ -7,6 +7,12 @@
   "name": "Build multi-platform apps with Appcelerator Titanium",
   "layout": "page.html",
   "description": "Learn how to leverage your existing JavaScript mojo to build applications for different platforms from a single codebase.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130406-barcelonajs",
+    "id": "20130406-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

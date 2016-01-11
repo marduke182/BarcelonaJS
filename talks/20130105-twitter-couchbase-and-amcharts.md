@@ -7,6 +7,12 @@
   "name": "Twitter, Couchbase and amCharts",
   "layout": "page.html",
   "description": "How to start with node.js. An example for teaching purposes at UPC showing off basic node.js fundamentals with streaming twitter messages to Couchbase and visualise the data via socket.io in amCharts.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130105-barcelonajs",
+    "id": "20130105-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workFeatured": {
     "type": "CreativeWork",

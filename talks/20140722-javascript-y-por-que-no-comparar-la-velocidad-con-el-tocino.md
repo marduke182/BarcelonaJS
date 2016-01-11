@@ -7,6 +7,12 @@
   "name": "JavaScript y por qué no comparar la velocidad con el tocino",
   "layout": "page.html",
   "description": "Rendimiento en Javascript: explicaremos algunas técnicas, haremos una recopilación de buenas prácticas  y utilizaremos alguna herramienta para identificar problemas de rendimiento, lo que no ayudará a hacer buenas implementaciones.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140722-barcelonajs",
+    "id": "20140722-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "es",
   "performer": {
     "type": "Person",

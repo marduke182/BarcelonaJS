@@ -7,6 +7,12 @@
   "name": "WebAPI in Open Web Apps and Firefox OS",
   "layout": "page.html",
   "description": "One of the main weaknesses of web applications is that browsers can access a limited set of device services, such as geolocation, device orientation etc. In this talk I would like to explore how the W3C and browser vendors are working together to enable the development of Open Web Apps that can access device hardware and sensors through Javascript, and show you some of the Firefox OS demo apps I wrote for the Mozilla Developer Network (MDN).",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140429-barcelonajs",
+    "id": "20140429-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

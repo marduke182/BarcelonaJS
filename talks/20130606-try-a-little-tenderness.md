@@ -7,6 +7,12 @@
   "name": "Try a little tenderness",
   "layout": "page.html",
   "description": "Stop writing ugly Javascript, you don't have to. This talk is about enforcing good practices for building and maintaining big Javascript applications. I'm going to share what we learned while building Teambox (more than 200k lines of javascript code)",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130606-barcelonajs",
+    "id": "20130606-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

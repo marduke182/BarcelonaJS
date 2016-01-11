@@ -7,6 +7,12 @@
   "name": "Introduction to testing with AngularJS",
   "layout": "page.html",
   "description": "Introduction to testing with AngularJS will be the talk for you if you've always been interested what testing is but never took the step to finally start doing it. The talk will be mainly focused on testing basics and unit testing in AngularJS",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140213-barcelonajs",
+    "id": "20140213-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

@@ -7,6 +7,12 @@
   "name": "Backbone, Marionette and other puppets",
   "layout": "page.html",
   "description": "Now that you know Backbone.js is time to become a puppeteer and use Marionette.js, a composite application library for Backbone.js that aims to simplify the construction of large scale Javascript applications.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140314-barcelonajs",
+    "id": "20140314-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "es/en",
   "workPerformed": {
     "type": "CreativeWork",

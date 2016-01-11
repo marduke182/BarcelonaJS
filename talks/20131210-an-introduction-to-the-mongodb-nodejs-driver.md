@@ -7,6 +7,12 @@
   "name": "An introduction to the MongoDB Node.js driver",
   "layout": "page.html",
   "description": "Get started with Node.js driver and MongoDB",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20131210-barcelonajs",
+    "id": "20131210-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workFeatured": {
     "type": "CreativeWork",

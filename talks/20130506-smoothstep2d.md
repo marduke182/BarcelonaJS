@@ -7,6 +7,12 @@
   "name": "SmoothStep2D",
   "layout": "page.html",
   "description": "Know about SmoothStep2D, a game development framework, that let you create new experiences on the web, without worrying about anything else than your game logic.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130506-barcelonajs",
+    "id": "20130506-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

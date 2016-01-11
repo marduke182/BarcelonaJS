@@ -7,6 +7,12 @@
   "name": "Videogular: An HTML5 video player for AngularJS",
   "layout": "page.html",
   "description": "Videogular is an Open Source project to develop a fully customizable video player for AngularJS. I will be talking about internals, AngularJS tricks, how to use the API and much more.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20131008-barcelonajs",
+    "id": "20131008-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workFeatured": {
     "type": "CreativeWork",

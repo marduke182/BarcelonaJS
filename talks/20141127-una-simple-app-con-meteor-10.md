@@ -7,6 +7,12 @@
   "name": "Una simple app con Meteor 1.0!",
   "layout": "page.html",
   "description": "Una introducción al framework Meteor con la creación de una simple app",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20141127-barcelonajs",
+    "id": "20141127-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "es",
   "performer": {
     "type": "Person",

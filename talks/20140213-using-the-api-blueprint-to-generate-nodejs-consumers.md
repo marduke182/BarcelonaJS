@@ -7,6 +7,12 @@
   "name": "Using the API Blueprint to generate nodejs consumers",
   "layout": "page.html",
   "description": "I'll show you how to generate a nodejs API consumer by using the API Blueprint (http://apiblueprint.org/) to generate code from a Postman (http://www.getpostman.com/) collection.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20140213-barcelonajs",
+    "id": "20140213-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

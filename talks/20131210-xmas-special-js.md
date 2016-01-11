@@ -7,6 +7,12 @@
   "name": "Xmas Special JS",
   "layout": "page.html",
   "description": "It's that time of the year again ... Let's get together, have a beer and celebrate the end of the year!",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20131210-barcelonajs",
+    "id": "20131210-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

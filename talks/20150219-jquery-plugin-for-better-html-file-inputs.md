@@ -7,6 +7,12 @@
   "name": "jQuery plugin for better HTML file inputs",
   "layout": "page.html",
   "description": "Have you ever wanted to style an HTML file input in a easy way? I did, so I took [this guide](quirksmode.org/dom/inputfile.html) And turned it into a [jQuery plugin](plugins.jquery.com/enhancedfileinput/). [Here are some slides](http://www.developingandstuff.com/2013/01/jquery-plugin-for-better-html-file.html) I made for colognejs.de about developing it with Jasmine specs.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20150219-barcelonajs",
+    "id": "20150219-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

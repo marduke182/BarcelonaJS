@@ -7,6 +7,12 @@
   "name": "Getting started with 3D graphics in the browser with WebGL and three.js",
   "layout": "page.html",
   "description": "Add 3D content to your web pages or create fully immersive experiences with ease. Learn how to set up a scene, generate or load models and render them interactively.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130305-barcelonajs",
+    "id": "20130305-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workFeatured": {
     "type": "CreativeWork",

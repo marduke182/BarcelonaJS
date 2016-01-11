@@ -7,6 +7,12 @@
   "name": "Motion Detection In Video Through JavaScript",
   "layout": "page.html",
   "description": "Making use of HTML5 video, Webcam API and Canvas. This interactive talk explores the possibilities of motion and even movement detection of a live video stream within the browser. Find out about accessing pixel-by-pixel information from individual video frames, different RGB (and alpha) channels, and contribute ideas for potential applications and improvements.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130704-barcelonajs",
+    "id": "20130704-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",

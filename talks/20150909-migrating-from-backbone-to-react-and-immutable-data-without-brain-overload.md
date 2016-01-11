@@ -7,6 +7,12 @@
   "name": "Migrating from Backbone to React and Immutable data without brain overload",
   "layout": "page.html",
   "description": "In this talk I will tell you a story about our recently started migration from Backbone to React + immutable data stack. Our state was: huge amount of marionette Views and Backbone Collections. Our targets were: have all our UI data available globally and be immutable rendering layer swithched to react migration should not be done in ’stop the world and rewrite everything’ format boost developer experience: add hot-reloading and time traveling to ease the debugging process prevent brains overload by new concepts and ideas. So, I want to tell you how we met all these goals and maybe even more.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20150909-barcelonajs",
+    "id": "20150909-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

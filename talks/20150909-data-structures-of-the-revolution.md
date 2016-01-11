@@ -7,6 +7,12 @@
   "name": "Data structures of the revolution",
   "layout": "page.html",
   "description": "blob storage, logs, and DHTs! How to use torrents, logs, blob storage, and to build services that nobody can own. In node and the browser!",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20150909-barcelonajs",
+    "id": "20150909-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workFeatured": {
     "type": "CreativeWork",

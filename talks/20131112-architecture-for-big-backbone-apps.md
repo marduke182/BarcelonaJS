@@ -7,6 +7,12 @@
   "name": "Architecture for big Backbone Apps",
   "layout": "page.html",
   "description": "Backbone can be a dificult beast to tame, examples on how to manage complexity and scale the code base",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20131112-barcelonajs",
+    "id": "20131112-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

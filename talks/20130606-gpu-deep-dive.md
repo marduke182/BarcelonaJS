@@ -7,6 +7,12 @@
   "name": "GPU Deep Dive",
   "layout": "page.html",
   "description": "with a dose of browser internals understanding. Let's talk about rendering performance, how to boost pages speed and make 60+ FPS animations possible. Clunky and janky scrolls? Jumpy animatios? Unresponsive UIs? Let’s see how to identify, diagnose and fix reflows, composites, repaints, textures and automatic layer creation even for low end devices without die trying.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130606-barcelonajs",
+    "id": "20130606-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "performer": {
     "type": "Person",

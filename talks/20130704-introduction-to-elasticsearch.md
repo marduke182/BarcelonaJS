@@ -7,6 +7,12 @@
   "name": "Introduction to Elasticsearch",
   "layout": "page.html",
   "description": "Elasticsearch is an open source, realtime, distributed search and analytics engine. It's easy to get started but will grow with your application. Come find out what Elasticsearch can do for you.",
+  "superEvent": {
+    "type": "Social event",
+    "url": "/event/20130704-barcelonajs",
+    "id": "20130704-barcelonajs",
+    "name": "BarcelonaJS"
+  },
   "inLanguage": "en",
   "workPerformed": {
     "type": "CreativeWork",
