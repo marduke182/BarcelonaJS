@@ -29,3 +29,9 @@
 Computers have always been a great tool for creating music. Until recently, the web platform was limited to playing back recorded sounds, but the Web Audio API provides very powerful and versatile sound synthesis capabilities.
 
 In this talk I will give an introduction to computer sound synthesis, present the Web Audio API, perform some live coding, and demo a complete graphical synthesizer created with Web Audio.
+
+The presentation can be watched online [here](https://lcrespom.github.io/synth/prz/).
+
+The *Modulator* synthesizer can be used [here](https://lcrespom.github.io/synth/).
+
+And [here](https://github.com/lcrespom/Modulator) is the project's repository.
