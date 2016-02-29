@@ -35,5 +35,15 @@
   "github": "https://api.github.com/repos/BarcelonaJS/planning/issues/14",
   "url": "/event/20160315-barcelonajs.html",
   "name": "BarcelonaJS",
-  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics."
+  "about": "Barcelona.JS is a usergroup focused on JavaScript and related topics.",
+  "performer": [
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/1311781?v=3",
+      "name": "Jesus Quintana",
+      "id": "20160314-basic-redux",
+      "sameAs": "https://api.github.com/users/marduke182",
+      "url": "/talk/20160314-basic-redux.html"
+    }
+  ]
 }
