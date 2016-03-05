@@ -68,6 +68,14 @@
       "id": "20160315-basic-redux",
       "sameAs": "https://api.github.com/users/marduke182",
       "url": "/talk/20160315-basic-redux.html"
+    },
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/242119?v=3",
+      "name": "Francisco",
+      "id": "20160315-hermes-asynchronous-microservices-right-to-your-frontend",
+      "sameAs": "https://api.github.com/users/fmvilas",
+      "url": "/talk/20160315-hermes-asynchronous-microservices-right-to-your-frontend.html"
     }
   ]
 }
