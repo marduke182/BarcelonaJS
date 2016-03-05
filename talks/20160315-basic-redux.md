@@ -14,10 +14,7 @@
     "gravatar": "",
     "url": "https://api.github.com/users/marduke182",
     "image": "https://avatars.githubusercontent.com/u/1311781?v=3",
-    "twitter": [
-      "marduke182",
-      "jvlucic"
-    ]
+    "twitter": "marduke182"
   },
   "superEvent": {
     "type": "Social event",
@@ -37,7 +34,7 @@
 ---
 
 
-Me and a friend are looking to give some talks in the BCNJS meetups if you are interested. Specifically it would be two talks ( we are not sure if both should be in the same session or separate ), one would be for teaching basic Redux and the second for more advanced Redux #9:
+Me and a friend @jvlucic are looking to give some talks in the BCNJS meetups if you are interested. Specifically it would be two talks ( we are not sure if both should be in the same session or separate ), one would be for teaching basic Redux and the second for more advanced Redux #9:
 
 This would be this gist of it (pending changes):
 
