@@ -1,5 +1,20 @@
 [
   {
+    "name": "Mobile World Centre",
+    "image": "mwc-white.svg",
+    "url": "https://www.mobileworldcentre.com"
+  },
+  {
+    "name": "Mobile World Capital",
+    "image": "3scale.svg",
+    "url": "http://mobileworldcapital.com"
+  },
+  {
+    "name": "movistar",
+    "image": "movistar.svg",
+    "url": "http://www.movistar.es"
+  },
+  {
     "name": "3scale",
     "image": "3scale.svg",
     "url": "http://3scale.com/?ref=bcnjssite"
