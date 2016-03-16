@@ -29,7 +29,12 @@
   "level": "beginner",
   "tags": [
     "Redux"
-  ]
+  ],
+  "workPerformed": {
+   "type": "CreativeWork",
+   "learningResourceType": "presentation",
+   "url": "https://slides.com/jesusquintana/basic-redux"
+ }
 }
 ---
 
