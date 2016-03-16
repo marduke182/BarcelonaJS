@@ -4,6 +4,16 @@
   "duration": "PT30M",
   "github": "https://api.github.com/repos/BarcelonaJS/speakers/issues/3",
   "id": "20160315-hermes-asynchronous-microservices-right-to-your-frontend",
+  "workPerformed": {
+    "type": "CreativeWork",
+    "learningResourceType": "presentation",
+    "url": "https://github.com/fmvilas/hermes"
+  },
+  "workFeatured": {
+    "type": "CreativeWork",
+    "learningResourceType": "source code",
+    "id": "https://github.com/fmvilas/hermes"
+  },
   "performer": {
     "type": "Person",
     "githubId": 242119,
