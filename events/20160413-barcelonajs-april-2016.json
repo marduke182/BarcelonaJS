@@ -44,6 +44,14 @@
       "id": "20160413-an-advance-introduction-to-redux",
       "sameAs": "https://api.github.com/users/marduke182",
       "url": "/talk/20160413-an-advance-introduction-to-redux.html"
+    },
+    {
+      "type": "Person",
+      "image": "https://avatars.githubusercontent.com/u/987?v=3",
+      "name": "Wojciech Ogrodowczyk",
+      "id": "20160413-using-react-native-for-cross-platform-development",
+      "sameAs": "https://api.github.com/users/sharnik",
+      "url": "/talk/20160413-using-react-native-for-cross-platform-development.html"
     }
   ]
 }
